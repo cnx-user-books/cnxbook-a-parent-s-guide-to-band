@@ -1,0 +1,288 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Classifying Musical Instruments</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m11896</md:content-id>
+  <md:title>Classifying Musical Instruments</md:title>
+  <md:abstract>An introduction to a classification system for all musical isntruments.</md:abstract>
+  <md:uuid>97e0d8e6-6457-410c-b77b-8edf934d4bba</md:uuid>
+</metadata>
+
+  <content>
+
+    <para id="eip-141">A <link url="http://webhostinggeeks.com/science/cnx-content-ro">Romanian translation of this module</link> is available at <link url="http://webhostinggeeks.com/">Web Hosting Geeks</link>.</para><section id="eip-683"><title>Introduction</title><para id="eip-26">There are two common ways to classify musical instruments. One way is to group them as they are in a <link document="m11421">Western</link> <link document="m11897">orchestra</link>: strings, woodwinds, brass, and percussion. This method is more widely recognized, particularly among non-musicians, and it is very useful in its traditional setting, <link document="m11421">Western classical and art music</link>. However, it is difficult or confusing to apply to the many non-orchestral instruments. 
+</para><para id="eip-801">The other way, first published in 1914 by Erich von Hornbostel and Curt Sachs, is to group instruments according to how their sounds are produced. This method can be used to classify any instrument and is now preferred by most musicologists. The Hornbostel-Sachs method is more specific, more inclusive, and more accurate:</para><list id="eip-57"><item>
+<emphasis>More specific </emphasis>- Categories are subdivided into smaller and smaller categories, making a sort of family tree of related instruments (related by function, not by history).
+     </item>
+     <item>
+<emphasis>More inclusive </emphasis>- Any instrument can be categorized.
+     </item>
+     <item>
+<emphasis>More accurate </emphasis>- Instruments are grouped according to how sounds are produced, not according to which instruments the composer is likely to group them with in the music or which orchestra member is likely to play them.
+      </item></list><para id="eip-78">The major categories are <link target-id="s21">chordophones</link>, <link target-id="s22">aerophones</link>, <link target-id="s23">membranophones</link>, and <link target-id="s24">idiophones</link>. Some musicologists also include a separate category for <link target-id="s25">electrophones</link>. Here is an introduction to the major groups in each of these categories. Familiar instruments in each category are mentioned when possible; some categories, while very popular around the world, will not have any specific instruments that are widely familiar. </para></section>
+    
+
+    
+
+    
+
+    
+
+    <section id="s21">
+       <title>Chordophones</title>
+
+       <para id="p21a">
+In a <term>chordophone</term>, the sound is made by vibrating strings. The main groups of chordophones are classified according to the relationship between the strings and the resonator. (<term>Resonators</term> pick up the original vibrations and vibrate <term>sympathetically</term> with them, amplifying the original sounds and altering them so that they sound more musical.) Subcategories depend on how the string is played (plucked or bowed for example), and types of resonators. 
+       </para>
+
+    <figure id="fig121a" orient="horizontal">
+      <subfigure id="fig121al">
+       <media id="id1171354883892" alt=""><image src="../../media/newbanjo30.png" mime-type="image/png"/></media>
+       <caption>
+A banjo is classified as a plucked lute chordophone. 
+       </caption>
+      </subfigure>
+      <subfigure id="fig121ar">
+       <media id="id7779287" alt=""><image src="../../media/harp.png" mime-type="image/png"/></media>
+       <caption>
+Harps are one of the main subcategories of chordophone.
+       </caption>
+      </subfigure>
+    </figure>
+
+       <list id="l21a">
+        <title>Chordophone Categories</title>
+        <item>
+In <term>zithers</term>, the strings are stretched across, over, or inside a resonator, or between two resonators. The resonator can be a hollow tube, a gourd, a board, a hollow box, or even a pit in the ground. Some have fingerboards with or without frets; some have a keyboard with a complex mechanism; many are simply a multitude of strings strung from one end of the resonator to the other. The strings can be struck (as in a piano or hammered dulcimer) or plucked (harpsichord or Appalachian dulcimer). 
+        </item>
+        <item>
+In <term>lutes</term>, the strings stretch across the resonator and up a neck. They may be plucked (guitar, banjo) or bowed (violin, fiddle)
+        </item>
+        <item>
+In <term>lyres</term>, the strings leave the resonator at right angles to an edge and run to a cross bar that is held away from the resonator(as in the classical Greek lyre that is so often used as a symbol of music). 
+       </item>
+       <item>In <term>harps</term> (like the orchestral harp and the Irish harp), the strings leave the resonator at a slant (smaller than a right angle) up to a neck connected to the resonator.
+        </item>
+        <item>
+In a <term>musical bow</term>, the string or strings are stretched from one end of a wooden bow to the other. Some have resonators, but many don't. They can be plucked or bowed (with a second, smaller bow).
+        </item>
+       </list>
+    
+      <figure id="fig21b">
+        <title>Basic Chordophone Types</title>
+         <media id="id1171356090417" alt=""><image src="../../media/chordophones.png" mime-type="image/png"/></media>
+      </figure>
+
+    </section>
+
+    <section id="s22">
+       <title>Aerophones</title>
+
+       <para id="p22a">
+In aerophones, the sound is produced by vibrating air (usually inside the instrument). The instrument, or parts of the instrument, are shaped (often into a tube or set of tubes) so that the vibrations will be a particular length, and so a particular <link document="m10943">pitch</link> (see <link document="m11060">Sound, Physics and Music</link>.) Aerophones are grouped according to what causes the air to begin vibrating.
+       </para>
+
+    <figure id="fig122a">
+       <media id="id1171360141999" alt=""><image src="../../media/concertina30.png" mime-type="image/png"/></media>
+       <caption>
+The melodeon, like its close relatives the accordion and the concertina, is a free-reed aerophone.
+       </caption>
+    </figure>
+
+       <list id="l22a">
+         <title>Aerophone Categories</title>
+        <item>
+In <term>whistles</term>, the air is blown at a sharp edge in the instrument (as in recorders as well as police whistles).
+        </item>
+        <item>
+In <term>blowhole</term> instruments, the air is blown across the sharp edge at the blowhole. When the instrument is tube-shaped, the blowhole can be in the end ("end-blown", as in panpipes), or in the side of the instrument ("side-blown", as in a fife).
+        </item>
+        <item>
+In <term>reed</term> instruments, the vibration of a reed or reeds begins the air vibration. In <term>single reed</term> (saxophone, for example) and <term>double reed</term> (oboe) instruments, the one or two reeds are part of the mouthpiece. In bagpipes and in <term>free-reed</term> instruments (such as harmonica and accordion), the single or double reeds are mounted somewhere inside the instrument and there can be many of them - sometimes a different reed for every pitch.
+        </item>
+        <item>
+In <term>cup mouthpiece</term> instruments, the player buzzes the lips against the mouthpiece, causing a sympathetic vibration in the air inside the instrument. (bugle, conch shell).
+        </item>
+        <item>
+The pipes of an <term>organ</term> have a sharp edge like a whistle, but the pipes are filled with air from something other than a mouth or nose, usually a bellows of some sort.
+        </item>
+        <item>
+<term>Free aerophones</term> (bull-roarers, toy spinning tops), cause vibrations in the air around them rather than inside them.
+        </item>
+       </list>
+
+    </section>
+
+    <section id="s23">
+       <title>Membranophones</title>
+
+       <para id="p23a">
+In membranophones, the sound begins with the vibration of a stretched membrane, or skin (often an actual animal skin), but the skin is usually stretched across a <link target-id="p21a">resonator</link>. Membranophones are usually classified according to the shape of the resonating body of the instrument.
+       </para>
+
+    <figure id="fig23a" orient="horizontal">
+      <subfigure id="fig23bongo">
+       <media id="id1171356795096" alt=""><image src="../../media/bongo30.png" mime-type="image/png"/></media>
+      </subfigure>
+      <subfigure id="fig23drum">
+        <media id="id6511753" alt=""><image src="../../media/drum30.png" mime-type="image/png"/></media>
+      </subfigure>
+       <caption>
+Membranophones are classified by their basic shape. For example, a drum that is wider at top and bottom than in the middle is a waisted tubular drum.
+       </caption>
+    </figure>
+
+       <list id="l23a">
+         <title>Membranophone Categories</title>
+         <item>
+<term>Tubular drums</term> are divided into <term>cylindrical</term>, <term>conical</term>, <term>barrel</term>, <term>long</term>, <term>waisted</term> (hourglass-shaped), <term>goblet</term> (with a stem at the base), and <term>footed</term> (with feet around the edge of the bottom).
+         </item>
+         <item>
+<term>Kettledrums</term> or <term>vessel drums</term> have rounded bottoms.
+         </item>
+         <item>
+In <term>frame drums</term>, the membrane is stretched over a frame, usually making a wide, shallow instrument. (Tamborines are in this category.)
+         </item>
+         <item>
+<term>Friction drums</term> come in a variety of shapes. Instead of beating on the membrane, the player runs a stick through a hole in the membrane.
+         </item>
+         <item>
+In <term>mirlitons</term>, the membrane is made to vibrate by blowing air across it. These are the only membranophones that are not drums. (Kazoos are in this category.)
+         </item>
+       </list>
+
+    </section>
+
+    <section id="s24">
+       <title>Idiophones</title>
+
+       <para id="p24a">
+In idiophones, it is the vibration of the instrument itself that is the main source of the musical sound. Idiophones are classified according to what you do to them to make them vibrate.
+       </para>
+
+    <figure id="fig24a" orient="horizontal">
+      <subfigure id="fig24al">
+       <media id="id2013485" alt=""><image src="../../media/cowbell30.png" mime-type="image/png"/></media>
+      </subfigure>
+      <subfigure id="figure24ar">
+        <media id="id1171354980953" alt=""><image src="../../media/steeldrum30.png" mime-type="image/png"/></media>
+      </subfigure>
+       <caption>
+Bells and steel drums are percussion idiophones; Steel drums are hit with sticks held by the player; a bell is hit by the clapper inside the bell.
+       </caption>
+    </figure>
+
+       <list id="l24a">
+          <title>Idiophone Categories</title>
+         <item>
+<term>Percussion</term> idiophones are hit with sticks, beaters, or clappers (bells, steel drums).
+         </item>
+         <item>
+<term>Shaken</term> idiophones are shaken (maracas, eggs, jingle bells).
+         </item>
+         <item>
+<term>Concussion</term> idiophones are played by clashing two of them together (castanets, claves, spoons).
+         </item>
+         <item>
+<term>Friction</term> idiophones are made to vibrate by rubbing them (as when you make a wine glass ring by rubbing its rim).
+         </item>
+         <item>
+<term>Scraped</term> idiophones are played by scraping a stick across a set of notches or corrugations on the instrument (guiro, washboard).
+         </item>
+         <item>
+<term>Stamping</term> idiophones are stamped on the ground, floor, or hard surface. (Tap shoes are in this category.)
+         </item>
+         <item>
+If the main sound is coming from the surface that is being stamped on, it is a <term>stamped</term> idiophone.
+         </item>
+         <item>
+<term>Plucked</term> idiophones have a thin tongue of metal or bamboo that vibrates when plucked (jew's harp, mbira or thumb piano). 
+         </item>
+       </list>
+     </section>
+
+    <section id="s25">
+       <title>Electrophones</title>
+
+       <para id="p25c">
+An instrument that is not amplified electrically is an <term>acoustic</term> instrument. There are instruments (such as the electric-acoustic guitar, vibraphone, and electric saxophone) that keep their acoustic resonators but are also amplified and altered electronically. Actually any instrument sound that has been through a microphone and amplifier, or even been saved as a recording, belongs in this category. These instruments are probably best categorized as they would be before being amplified.
+       </para>
+       <para id="p25a">
+There are also a large number of instruments that could be categorized as either mechanical or electrical. <term>Mechanical</term> instruments are played by some mechanical mechanism instead of by a person. (Music boxes, player pianos, and carillons are in this category.) <term>Electric</term> instruments (electric guitar, electric bass) rely on electronics instead of a resonator to amplify and alter the sound. These hybrid instruments may be categorized as mechanical or electric instruments, or they may be classified according to how the sound is produced before it is amplified (electric guitar is still a plucked lute chordophone, for example, or perhaps simply an electric chordophone) or after the mechanism causes it to play (carillons are percussion idiophones - bells). 
+       </para>
+       <para id="p25b">
+But there are some instruments that are true <term>electrophones</term>; their sound is both produced and amplified by electronic circuits. (This group includes the electric organ, synthesizer, and theremin.)
+       </para>
+
+    <figure id="fig25a">
+       <media id="id1171361925485" alt=""><image src="../../media/guitar30.png" mime-type="image/png"/></media>
+       <caption>
+The sound of an electric guitar begins with a string, but is modified and amplified electronically. Is it a chordophone, an electrophone, or both?
+       </caption>
+    </figure>
+
+    </section>
+
+    <section id="s4">
+        <title>Activities</title>
+  <exercise id="exer2a">
+    <problem id="id1171352774221">
+      <para id="prob2a">
+Classify the instruments of the orchestra (see <link document="m11897">Orchestral Instruments</link>), or the instruments in a group you are familiar with, according to Hornbostel and Sach's system.
+      </para>
+    </problem>
+    <solution id="id1171353951726">
+      <list id="solv2a">
+          <title>In an orchestra</title>
+        <item>
+All the strings are bowed lutes (except for the harp - a harp - and the piano - a struck zither).
+        </item>
+        <item>
+Flutes and piccolos are blow hole aerophones.
+        </item>
+        <item>
+Clarinets are single reed aerophones.
+        </item>
+        <item>
+Oboes and bassoons are double reed aerophones.
+        </item>
+        <item>
+All the brass are cup mouthpiece aerophones.
+        </item>
+         <item>
+Tympani are vessel membranophones.
+         </item>
+        <item>
+The other drums are cylindrical tubular membranophones.
+        </item>
+        <item>
+Melody percussion are percussion idiophones.
+        </item>
+         <item>
+Cymbals and gongs are concussion idiophones.
+         </item>
+         <item>
+Tamborines are frame drum idiophones.
+         </item>
+         <item>
+Triangles and some bells are percussion idiophones.
+         </item>
+         <item>
+Maracas, eggs, and some bells are shaken idiophones.
+         </item>
+      </list>
+    </solution>
+  </exercise>
+
+  </section>
+  <section id="s5">
+    <title>Acknowledgements</title>
+  
+    <para id="p5a">
+Except for "Basic Chordophone Types", all illustrations are by Margaret Jones. When copying this material under the Creative Commons license, please make appropriate attribution. Thank you.
+    </para>
+
+  </section>
+
+  </content>
+  
+</document>

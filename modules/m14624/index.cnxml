@@ -1,0 +1,45 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Double Bass</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m14624</md:content-id>
+  <md:title>The Double Bass</md:title>
+  <md:abstract>A brief introduction to the largest, lowest-sounding stringed instrument of the orchestra.</md:abstract>
+  <md:uuid>5ae16067-0abb-4005-a73e-0f65bc429313</md:uuid>
+</metadata>
+  <content>
+
+<section id="s0">
+  <title>Introduction</title>
+    <para id="p0a">
+The double bass, often called the string bass or upright bass, is the largest, lowest-sounding instrument in the <link document="m11897" target-id="s11">string</link> section of the orchestra. Like its close relatives in that section, the <link document="m13437">violin</link>, viola, and cello, it is classified as a <link document="m11896" target-id="s21">chordophone</link>.
+    </para>   
+</section>
+
+<section id="s1">
+<title>The Instrument</title>
+<para id="p1a">
+Like the other orchestral strings, the double bass has four strings stretched over an unfretted neck and a hollow wooden body. The body of the instrument <link document="m13537">resonates</link> with and amplifies the sound of the strings, which would otherwise be too soft to be heard in a concert situation.
+</para><para id="element-198">To play this large instrument, the bassist must either sit on a tall stool or stand. The bass rests on an adjustable peg on the floor.
+</para>
+<para id="element-824">The four strings of a violin, (or viola or cello) are tuned in <link document="m10867" target-id="p21b">fifths</link>; in other words, each string is tuned a perfect fifth from the previous string. The strings of the double bass are tuned in <link document="m10867" target-id="p21b">fourths</link>, to reduce the stretch that the left hand must make to get from one note to the next. Even so, with its large size and long, heavy strings, the double bass is a very physically demanding instrument to play. <note id="id1170187219390">A small but vocal minority of bass players prefers to tune the instrument in fifths, CGDA instead of EADG. They feel that any fingering difficulties are outweighed by the advantages of this tuning, including being able to play the low C, and subtle differences in <link document="m11639">tuning</link> and <link document="m11118">harmonics</link> that allow them to better blend with the other orchestral strings.</note></para><figure id="element-845"><title>Bass String Tuning</title> <media id="id1170189191189" alt=""><image src="../../media/bassstrings.png" mime-type="image/png"/></media>
+<caption>The strings of the bass are usually tuned in fourths, rather than the fifths of the other orchestral strings.</caption></figure><para id="p1b">The double bass is usually played by drawing a bow across the strings, but the strings may also be plucked with the fingers, and this plucking technique, called <term>pizzicato</term>, is the more common technique in some types of music, such as jazz. 
+</para>
+
+</section>
+
+<section id="s3">
+<title>History</title>
+<para id="element-205">Double-bass-like instruments have been around since the early 1500's. The earliest large string instruments were part of the viol family. Violin, viola, and cello are all considered part of the violin family of instruments, since they are shaped,  constructed, and played very similarly. Viols were a different family of bowed string instruments that were very popular in the sixteenth and seventeenth centuries. Viols came in a variety of sizes; each had a <link document="m12745" target-id="p0d">fretted</link> neck and six strings. The body shape of a viol was similar to that of a violin, but the violin has a louder, more insistent sound than the viol. Viols were better suited for playing in smaller, quieter ensembles, so as large orchestras became more popular, the sound of the violin and its family came to be preferred, and viols basically disappeared.</para></section>
+
+<para id="element-55">Meanwhile, there was quite a bit of variety in the bass instrument of the string section. Instruments came and went that had three, four, five, or six strings and various tunings. The instrument that was finally settled on was fretless and four-stringed like a violin, but tuned in fourths (more like a viol) and with the steeply sloping shoulders (the top of the body) of the viol family. The sloping shoulders are probably more to allow the player to reach around the instrument to play it than a remnant of the instrument's history, but in fact, the double bass is the only one of the orchestral strings that still does not have a standardized shape.</para><section id="s2">
+<title>Practical Information for Composers and Arrangers</title>
+<figure id="bassrange"><title>Written Range of the Bass</title>
+  <media id="id1170189034485" alt=""><image src="../../media/bassrange.png" mime-type="image/png"/></media>
+<caption>The double bass sounds an octave lower than written. Some bassists have a range that extends to a low C, either because their bass has an extension or a fifth string, or because they are tuning in fifths, but it is not a good idea to assume your bassist will be able to play below the E.</caption>
+</figure><para id="element-814">In popular musics and jazz, the double bass typically carries the <link document="m11654" target-id="l0c">bass line</link>. Given nothing more than the <link document="m11654" target-id="l0b">chord progression</link>, a very experienced bassist will be able to construct a typical bass line in the style that he normally plays in, but you should not count on less experienced players to be able to do this. In orchestras and other large ensembles, the bass section also typically plays the bass line, but also may play low melodies and <link document="m11634" target-id="l2a">countermelodies</link> or engage in complex interplay with other instruments.</para>
+<para id="p2a">The sound of the double bass is resonant but not loud. It is capable of playing solos, but if you give a solo to a double bass, make sure the rest of the arrangement is very quiet so that the solo can be heard.</para>
+</section><para id="element-520">On the other hand, the very resonant pizzicato of the double bass is much more easily heard than that of the smaller strings, and can be used to great effect in a variety of musical styles.</para><para id="element-719">Because of the physical demands of playing on large, heavy strings, bassists cannot play with as much agility as the smaller strings. If large, fast leaps or long passages of very fast notes are wanted in the bass, it may be a good idea to divide the part into two more easily playable parts, each to be played by half of the basses.</para>
+
+  </content>
+  
+</document>

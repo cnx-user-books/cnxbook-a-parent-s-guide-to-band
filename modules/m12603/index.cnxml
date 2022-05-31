@@ -1,0 +1,136 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Flutes</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>fa55c8c0-cb29-4a52-afb6-8eb514893a15</md:uuid>
+</metadata>
+
+  <content>
+
+    <section id="s0">
+       <title>Introduction</title>
+
+       <para id="p0a">
+A flute is an <link document="m11896" target-id="s22">aerophone</link> that is played by blowing air across a sharp edge in the mouthpiece of the instrument. The flute family is a large family of instruments that includes widely-recognized instruments such as the orchestral flute and piccolo, panpipes, and recorders, as well as unusual instruments such as nose flutes and ocarinas. Although many particular kinds of flutes are not widely known, flutes in general are probably the most common non-percussion instrument found in music traditions around the world. 
+       </para>
+       <para id="p0b">
+Flutes are usually (but not always) long, thin cylinders that are open at both ends. (Even if the flute appears to be closed at the mouthpiece end, air can usually escape at the blow hole, making the flute effectively an <link document="m12589" target-id="s2">open-open cylindrical tube</link> instrument.) If the player blows into one end of the cylinder, the flute is called  <term>end-blown</term>; if the blow hole is in the side of the instrument, it is  <term>side-blown</term>, or <term>transverse</term>. Flutes that are not cylindrical (such as ocarinas) are usually classified as <term>vessel flutes</term>.
+       </para>
+
+    </section> 
+
+    <section id="s7">
+      <title>Flute Mouthpieces</title>
+      <para id="p7a">
+There are many different types of flutes played around the world. Some have keys, some just finger holes, some are a collection of tubes, and some are just whistles. The one thing that classifies an instrument as a flute is the <link document="m12364" target-id="p1b">mouthpiece</link>, where the sound originates. 
+    </para>
+    <para id="p7b">
+Flutes have a <term>sharp edge mouthpiece</term>. The sound is produced by blowing a thin, concentrated stream of air at a sharp edge. The stream of air, instead of splitting smoothly at the sharp edge, vibrates back and forth between one side of the edge and the other. This vibration is picked up, reinforced, and turned into a pretty sound by the rest of the instrument (please see <link document="m12589">Standing Waves and Wind Instruments</link> for more on this).
+      </para>
+      <para id="p7c">
+The two major families of flutes are the <term>blow hole</term> <link document="m11896" target-id="s22">aerophones</link>, in which the mouth must direct the air stream toward one edge of a blow hole, and the <term>whistle mouthpiece</term> aerophones, in which the player blows into a whistle-type mouthpiece that directs the air toward a sharp edge. 
+      </para>
+    </section>
+  
+    <section id="s1">
+       <title>The Orchestral Flute</title>
+
+       <para id="p1a">
+The flute most commonly used in today's Western <link document="m11897">orchestras</link> and bands is a side-blown, or transverse flute made of metal (or sometimes dark wood). It is a concert-pitch (<link document="m10672">non-transposing</link>) instrument. Its basic design -particularly its system of keys and fingerings - was developed by Theobald Boehm (1793-1881) of Munich, in the 1830's. Boehm was a concert <term>flautist</term> (flute player), and also a goldsmith who had some understanding of <term>acoustics</term> (the physics of sound). He changed the placement of the fingerholes, enlarged them, and added complex keywork mounted on rods along the body of the instrument. Boehm's design was a distinct improvement on earlier instruments, and the flute is now the most agile of the orchestral <link document="m11897" target-id="s12">woodwinds</link>.
+       </para>
+       <para id="p1b">
+The orchestral flute has a <link document="m12364" target-id="p1e">cylindrical bore</link>. Its timbre is dominated by the <link document="m11118" target-id="p1c">fundamental harmonic</link>, giving it a very clear, uncomplicated sound.
+       </para>
+    <para id="p1c">
+The flute can usually be disassembled into three sections: the <term>head joint</term> (which includes the mouthpiece), the <term>middle joint</term>, and the <term>foot joint</term>. It has sixteen keys padded with felt to ensure an airtight seal when the key is held down by a finger. When at rest, the key is held open by a small steel spring. 
+    </para>
+
+    </section>
+
+    <section id="s5">
+      <title>Piccolo and Alto Flutes</title>
+
+      <para id="p5a">
+Two other flutes sometimes found in <link document="m11421">Western</link> music are the piccolo and alto flutes. The <foreign>flauto piccolo</foreign> (Italian for "small flute"), in common use since the late eighteenth century, is half the length of a standard flute and plays an <link document="m10862">octave</link> higher than written. The <term>alto flute</term> is noticeably larger than the standard flute, and its <link document="m12381">range</link> is a <link document="m10867" target-id="p21a">perfect fourth</link> lower. It is a <link document="m10672">transposing instrument</link> which plays a perfect fourth lower than written.
+      </para>
+      <para id="p5b">
+Both have Boehm-system keywork (in fact, the modern alto flute was developed by Boehm), and the fact that they are <link document="m10672">transposing instruments</link> means that a flautist doesn't need to learn a new set of fingerings for each instrument. (The fingering for a written C in the staff, for example, will be essentially the same on all three instruments).
+      </para>
+    <para id="p5c">
+<term>Bass flute</term>, a twentieth-century invention, is still quite rare.
+    </para>
+
+    </section>
+    <section id="s2">
+      <title>A History and Geography of the Flute</title>
+
+    <para id="p2d">
+The holes in early transverse flutes were spaced to give <link document="m11639" target-id="s13">mean tone tuning</link>. This tuning system was popular in Europe from the sixteenth through the eighteenth centuries, but it made it difficult for one instrument to play well in more than one key. This limited the flute's usefulness to orchestra. 
+    </para>
+    <para id="p2b">
+The <term>recorder</term>, a wooden, end-blown, whistle-mouthpiece type flute was very popular in early <link document="m11421">Western</link> music. It was particularly popular in the Renaissance and Baroque periods. But it is not an ideal orchestral instrument because of its quiet sound. 
+    </para>
+    <para id="p2c">
+Meanwhile, the keywork on transverse flutes was gradually being improved (see <link target-id="s1">above</link>), and <link document="m11639" target-id="s22">equal temperament</link>, which allows an instrument to play equally well in all keys, became the accepted tuning standard. At that point, the transverse flute, with its wider range of <link document="m11059">timbre</link>, <link document="m10943">pitch</link>, and <link document="m11649">dynamics</link>, became more popular than the recorder. Eventually the flute replaced the recorder so completely that the recorder nearly died out, until an interest in early music and early instruments helped spark a revival in the twentieth century.
+    </para>
+    <para id="p2e">
+The <term>fife</term> is a small transverse flute that - like the piccolo - sounds an octave higher than the orchestral flute. Its history since the middle ages is one of military rather than concert use, however. There were at one time  fife "calls" used as signals (similar to the bugle calls still in use), and fife and drum corps still play military music.
+    </para>
+    <para id="p2f">
+The flute family is also the most widespread <link document="m11896" target-id="s22">aerophone</link> family, with representatives in more <link document="m11421">Non-Western</link> music traditions around the world than any other non-percussion instrument. <term>Bamboo flutes</term> are common throughout Asia. <term>Panpipes</term>, which have many different-sized tubes bound together rather than finger holes in a single tube, are particularly popular in South America. Many variations of the side-blown and end-blown flutes (including double and triple flutes) have been developed in many cultures. <term>Vessel flutes</term> have been made in many different shapes, including animals and people, out of many different materials, including bone, wood, fruit shells, and pottery. Whistles are usually used for signals rather than music, but <term>bird whistles</term>, which are filled with water to get a bubbling whistle that sounds very much like the trill of a bird, are sometimes found in the percussion section of orchestras and bands. <term>Nose flutes</term>, played with the nose rather than the mouth, are popular in some South Pacific and Indian Ocean countries.
+    </para>
+
+    </section>
+
+    <section id="s4">
+      <title>Repertoire</title>
+
+      <list id="l4a">
+        <title>Here is some music that should be easy to find if you would like to listen to flutes. </title>
+      <item>
+Recordings by flute virtuosos such as James Galway and Jean-Pierre Rampal. 
+      </item>
+        <item>
+Debussy's <cite><cite-title>Prelude a l'Apres-midi d'un Faune</cite-title></cite> ("Prelude to the Afternoon of a Faun")
+        </item>
+        <item>
+Tchaikovsky's ballet <cite><cite-title>The Nutcracker</cite-title></cite> features flutes in many places, including most notably the "Chinese Dance" ("Tea") and "Dance of the Toy Flutes".
+        </item>
+      <item>
+If you wish to listen to Non-Western flutes, the easiest recordings to find will be bamboo flutes from various Asian traditions, Native North American flute music, and South American panpipes.
+       </item>
+    <item>
+If you want to listen to jazz flute, look for "West Coast" or "cool" jazz, and smaller, more modern ensembles in general, rather than big band or early jazz.
+    </item>
+        <item>
+The trio of Sousa's march <cite><cite-title>The Stars and Stripes Forever</cite-title></cite> probably has the most widely recognized piccolo part.
+        </item>
+        <item>
+Alto flutes can be heard in the "Neptune" movement of Holst's <cite><cite-title>The Planets</cite-title></cite>.
+        </item>
+      </list>
+
+    </section>
+    <section id="s3">
+      <title>Practical Information for Composers and Arrangers</title>
+
+
+       <figure id="fig1a">
+          <title>Flute and Piccolo Range</title>
+          <media id="idp2159072" alt=""><image src="../../media/fluterange.png" mime-type="image/png"/></media>
+          <caption>The written range is the same for flute and piccolo. Flutes sound as written; piccolo is a <link document="m10672">transposing instrument</link> that sounds one octave higher than written.</caption>
+       </figure>
+
+      <para id="p3a">
+Flute and piccolo are both very agile instruments that can play very quick notes, large leaps and special effects like trills and flutter-tonguing.
+      </para>
+      <para id="p3c">
+The lowest octave of the range is not loud, and the very lowest notes are rather weak. The very highest notes in the range can be shrill and out of tune.
+      </para>
+      <para id="p3b">
+The piccolo has a very piercing sound; a single piccolo in the upper register can be heard over an entire orchestra.
+      </para>
+
+    </section>
+
+  </content>
+  
+</document>

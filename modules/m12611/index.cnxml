@@ -1,0 +1,80 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Saxophones</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>7a7fc566-95b6-483c-a29f-17385aa66537</md:uuid>
+</metadata>
+
+  <content>
+    
+    <section id="s0">
+       <title>Introduction</title>
+
+       <para id="p0a">
+Saxophones are <link document="m12364" target-id="p6a">single-reed</link> <link document="m11896" target-id="s22">aerophones</link>. They were developed in the <link document="m11421">Western</link> music tradition, but are a fairly recent invention and are rarely found in traditional folk or "classical" music. They are very popular, however, in all types of modern bands, including marching bands, wind ensembles, school bands, jazz and dance bands, and many pop and rock bands.
+       </para>
+
+
+    </section>   
+    <section id="s1">
+       <title>The Instruments</title>
+
+       <para id="p1a">
+A saxophone is a <link document="m12364" target-id="p6a">single-reed</link> <link document="m11897" target-id="s12">woodwind</link>, closely related to the <link document="m12604">clarinet</link>. In fact, the <link document="m12364" target-id="p1b">mouthpieces</link> are very similar, and many instrumentalists can play both saxophone and clarinet well. 
+      </para>
+      <para id="p1b">
+But unlike the more <link document="m12364" target-id="p1c">cylindrical</link> clarinet, saxophones have a very <link document="m12364" target-id="p1c">conical</link>, flaring shape. Interestingly, the shape makes both blowing and fingering easier on saxophone than on clarinet. The simpler fingerings come from the fact that the conical bore causes the instrument to <link document="m12589" target-id="p3b">overblow</link> - that is, to get its first usable <link document="m11118" target-id="p1c">overtone</link> - at the <link document="m10862">octave</link>, rather than at the twelfth (an octave plus a <link document="m10867" target-id="p21b">fifth</link>). Notes that are one octave apart have essentially the same fingerings, and the saxophone does not need the extra keys that clarinets must have to produce the notes (from the octave to the twelfth) that would otherwise be missing.
+       </para>
+    <para id="p1c">
+Saxophones are usually made of brass (occasionally silver alloy or plastic), but they are still classified as <link document="m11897" target-id="s12">woodwinds</link>, not <link document="m11897" target-id="s13">brass</link>, because the sound is produced by a reed (not a cup mouthpiece) and the instrument is shaped and played like a woodwind, not a brass instrument. (Please see <link document="m12364">Wind Instruments: Some Basics</link> for more on this.)
+    </para>
+    <para id="p1d">
+Of the four saxophones in common use, the <term>soprano</term> is the smallest and highest-sounding. It is straight and looks a bit like a metal version of a clarinet. The other three commonly-used saxophones all have an upturned bell at the end of the instrument. The <term>alto</term> is a bit longer and lower-sounding than the soprano; it is very popular as a solo jazz instrument. The <term>tenor</term> is a bit longer and lower-sounding than the alto, and the <term>baritone</term> (you may hear it called the "bari sax") is even larger and lower-sounding than the tenor. Tenor and bari sax, like alto, are both common jazz instruments, a standard part of a jazz "big band", for example. Soprano sax is a little rarer, but still not difficult to find.
+    </para>
+
+       <figure id="fig1">
+         <title>Saxophone Ranges</title>
+         <media id="idm9416304" alt=""><image src="../../media/saxranges.png" mime-type="image/png"/></media>
+         
+       </figure>
+
+    </section>
+    <section id="s2">
+      <title>History</title>
+
+      <para id="p2a">
+Most modern instruments have a long history of slow evolution from more ancient instrument types. The saxophone is a relative newcomer, having been invented in Paris around 1840 by Belgian instrument-maker Adolphe Sax. A prolific inventor, Sax originally invented 14 different saxophones, as well as entire families of other instruments called saxhorns, saxtrombas, and saxtubas. Of his many creations, only eight of the saxophones (sopranino, soprano, alto, tenor, baritone, bass, contrabass, and subcontrabass) are in use today, and only soprano, alto, tenor, and baritone are common.  
+      </para><para id="element-265">A <link document="m10672">non-transposing</link> "C melody" or "C tenor" saxophone was popular in the early twentieth century in the U.S., particularly as a parlor-music instrument, since the player could read from the same sheet music as an accompanying pianist and be in the correct <link document="m10851">key</link>. Some jazz saxophonists, notably Frankie Trumbauer, performed and recorded on the C melody sax, but the instrument faded in popularity in the 1930's and is now quite rare.</para>
+
+    </section>
+    <section id="s4">
+      <title>Repertoire</title>
+
+    <para id="p4a">
+The easiest recordings to find that feature saxophone are jazz recordings. Look for the music of Sidney Bechet, John Coltrane, Charlie Parker, and Stan Getz, among many others. 
+    </para>
+    <para id="p4b">
+The saxophones tend to play a more supportive (rather than featuring) role and can be difficult to hear in military and classical band and wind ensemble music.
+    </para>
+    <para id="p4c">
+Most orchestral music does not include saxophones at all, but there are some exceptions, such as Ravel's <cite><cite-title>Bolero</cite-title></cite>, Prokofiev's <cite><cite-title>Lieutenant Kije Suite</cite-title></cite> (particularly the "Song" movement), and the "Il vecchio castello" movement of Ravel's orchestration of Mussorgsky's <cite><cite-title>Pictures at an Exhibition</cite-title></cite>.
+    </para>
+
+    </section>
+    <section id="s3">
+      <title>Practical Information for Composers and Arrangers</title>
+
+      <para id="p3a">
+The four saxophones most common in modern music are all <link document="m10672">transposing instruments</link>; music for these instruments must be <link document="m10668">transposed</link> properly to be playable. Alto and baritone saxophone are E flat instruments. Soprano and tenor are B flat instruments. If you want to write for one of the <link target-id="p2a">rarer saxophones</link>, you may want to make sure that it is available to your performers.
+      </para>
+    <para id="p3b">
+The written <link document="m12381">range</link> for all the instruments are the same, but their sounding ranges are quite different. When deciding which instrument should be given a part, keep in mind that the mid range of each instrument is the most easily playable. Playing in the far upper or lower register of an instrument also affects its <link document="m11059">timbre</link>, and the timbre of each type of saxophone is quite distinct from the others. 
+    </para>
+    <para id="p3c">
+The saxophone can play quite loudly for a woodwind, and is very useful as a solo instrument or in an outdoor setting. Saxophones are fairly agile instruments. They can't play quite as quickly as, say, a flute or violin, but experienced players can play large jumps and long passages of fast notes. The distinctive sound of the sax can instantly give a piece a jazz flavor, but it has also been used effectively in non-jazz settings. (Listen to the pieces listed in the <link target-id="s4">Repertoire</link> section for examples.)
+    </para>
+
+    </section>
+
+ 
+  </content>
+  
+</document>

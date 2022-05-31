@@ -1,0 +1,136 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Clarinets</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>bee6f6e1-8d93-4cad-8ea4-8f5bd182fa36</md:uuid>
+</metadata>
+
+  <content>
+    
+    <section id="s0">
+       <title>Introduction</title>
+
+       <para id="p0a">
+The clarinet is a single-reed <link document="m11896" target-id="s22">aerophone</link>. It is one of the <link document="m11897" target-id="s12">woodwinds</link> in the <link document="m11421">Western</link> <link document="m11897">orchestra</link> and is an important instrument in the modern band and wind ensemble.
+       </para>
+
+    </section>   
+    <section id="s1">
+       <title>The Instrument</title>
+
+      <section id="s11">
+         <title>Basics</title>
+       <para id="p11a">
+Clarinets are usually made of dark wood, although good quality plastic clarinets are also common. Metal <link document="m12364" target-id="p2f">keys</link> aid fingering, which can be quite fast on this very agile instrument.
+       </para>
+       <para id="p11b">
+When not being played, the clarinet is normally disassembled into several parts: the reed, ligature (which holds the reed on the mouthpiece), mouthpiece, barrel (or socket), upper body section, lower body section, and bell. The single <term>reed</term>, a thin, rectangular piece of a reed plant, must be replaced often.
+       </para>
+        
+      </section>
+      <section id="s12">
+        <title>Shape, Harmonics, and Timbre</title>
+       <para id="p1a">
+The basic shape of a clarinet is a <link document="m12364" target-id="p1c">cylindrical</link> tube open at one end. This strongly affects the harmonics of the instrument in two ways. (Please see <link document="m12589">Standing Waves and Wind Instruments</link> for more information.) One is that the sound, particularly in the lower <link document="m12381" target-id="s4">register</link>, has unusually strong odd-numbered <link document="m11118">harmonics</link>. This is what gives the clarinet its rich, complex <link document="m11059">timbre</link>.
+       </para>
+       <para id="p1ab">
+The other effect occurs when the player <term>overblows</term> to get a higher note with the same fingering. Since the next harmonic available is the third harmonic rather than the second, the clarinet overblows at the 12th rather than the octave. (Please see <link document="m12589">Standing Waves and Wind Instruments</link> and <link document="m11118">Harmonic Series</link> if you want to understand why.) This makes fingering more complicated for the clarinet than it is for instruments like the saxophone, which overblow at the octave. Twenty-four keys are needed to produce a smooth, in-tune <link document="m10866" target-id="p0bb">chromatic scale</link> through the entire <link document="m12381">range</link>, and there is no uniform system of fingering. A single note can have many alternative fingerings which may be more or less useful in different situations.
+       </para>
+
+      </section>
+      <section id="s13">
+        <title>Range</title>
+       <para id="p1b">
+The most common clarinet (the B flat) has such a large <link document="m12381">range</link>, and its <link document="m11059">timbre</link> varies so much over its range, that its different <link document="m12381" target-id="s4">registers</link> have been named. The low register, where the timbre is rich and dark, is called the <term>chalumeau</term> register. The higher <term>clarinet</term> register has a very clear, direct sound, and can be extremely expressive. The <term>extreme</term> upper register gets a shrill, piercing tone. In between the chalumeau and clarinet ranges (usually from G to B flat in the middle of the written staff), is the weaker <term>throat</term> register, where players can experience a difficult-to-negotiate "break" between the two registers. (This is partly caused by fingering difficulties, see <link target-id="p1ab">above</link>.)
+       </para>
+
+       <figure id="fig1a">
+         <title>Written Range of the B Flat Clarinet</title>
+         <media id="idm5001696" alt=""><image src="../../media/clarinetrange.png" mime-type="image/png"/></media>
+         <caption>The clarinet has a very large range of nearly four octaves. It sounds one whole step lower than written. The timbre of the instrument changes very much over its range.</caption>
+       </figure>
+      </section>
+      <section id="s14">
+        <title>Types of Clarinets</title>
+
+        <para id="p14a">
+The <term>B flat clarinet</term> is the most common modern instrument. It is a <link document="m10672">transposing instrument</link> that sounds one whole step lower than written. Most band and orchestra clarinet sections also have one or more <term>bass clarinets</term>. The bass clarinet sounds an octave lower than the regular B flat clarinet - it is also a B flat transposing instrument - and is much bigger. It has an upturned bell (often silver), and, like the cello, must rest on a spike on the floor when it is played. The <term>contrabass</term>, or <term> double bass</term> clarinet is an octave lower than the bass clarinet and much bigger, standing six and a half feet high. Like the small <term>E flat</term> clarinet (which sounds a <link document="m10867" target-id="p21a">perfect fourth</link> higher than the B flat), it is unusual, but can still be found. Many orchestral players have an <term>A clarinet</term> for playing in sharp keys, as well as a B flat instrument. Other clarinets, such as the <term>C clarinet</term> and the <term>alto clarinet</term> (about halfway between the B flat and the bass in size and range) have become rare. 
+        </para>
+
+      </section>
+
+    </section>
+    <section id="s2">
+      <title>History</title>
+
+      <para id="p2a">
+The clarinet developed around 1700 from the <term>chalumeau</term>, a simple single-reed instrument that had few keys and outwardly resembled a recorder. The Denner family of instrument makers, in Nuremburg, Germany, was responsible for some of the important changes in the earliest clarinets.
+      </para>
+      <para id="p2b">
+Early clarinets were not as versatile and easy-to-play as the modern instrument; fingering was particularly difficult because the instrument overblows at the twelfth rather than the octave (see <link target-id="p1ab">above</link>). Instruments from this period come in many different sizes and keys, including non-transposing C clarinets. A clarinet player would have several different instruments. Each piece of music would be played on the instrument that played best in that <link document="m10851">key</link>; for example B flat clarinets play best in flat keys, while A clarinets are better for sharp keys. (Many brass players at that time had similar difficulties.)
+      </para>
+      <para id="p2bc">
+Military bands included clarinets before orchestras did, but by the end of the eighteenth century, orchestral music consistently included clarinets.
+      </para>
+      <para id="p2c">
+In the early 1840's, the Boehm key system, which was already in use in flutes, was added to the clarinet. The resulting instrument was so easily playable in so many different keys, that it no longer seemed necessary to have so many different transposing instruments. The B flat clarinet, with its rich-toned lower register and powerful upper register, became the most popular clarinet. In the twentieth century, it was also widely used in popular music, particularly jazz.
+      </para>
+
+    </section>
+
+    <section id="s4">
+      <title>Repertoire</title>
+
+      <para id="p4a">
+The clarinet's versatility has made it popular in jazz and folk musics as well as in standard orchestral and chamber music, and the clarinet section is the backbone of the modern wind ensemble. Here are some easy-to-find suggestions for listening to clarinet.
+      </para>
+      <list id="l4a">
+        <item>
+The folk music most closely associated with clarinet is klezmer.
+        </item>
+        <item>
+Some famous clarinet moments include the opening of Gershwin's <cite><cite-title>Rhapsody in Blue</cite-title></cite> and the beginning of the Shaker Hymn section of Copland's <cite><cite-title>Appalachian Spring</cite-title></cite>.
+        </item>
+        <item>
+Solo clarinet is also featured at the beginning of Rimsky-Korsakov's <cite><cite-title>Capriccio Espanol</cite-title></cite>.
+        </item>
+        <item>
+Many composers, including Mozart, have written popular clarinet concertos, and a clarinet is part of the standard woodwind quintet.
+        </item>
+        <item>
+Most dixieland jazz will include a clarinet.
+        </item>
+        <item>
+Famous jazz clarinet players include Benny Goodman and Artie Shaw.
+        </item>
+      </list>
+     
+    </section>
+
+    <section id="s3">
+      <title>Practical Information for Composers and Arrangers</title>
+
+      <para id="p3aa">
+The standard modern clarinet is a B flat <link document="m10672">transposing instrument</link>. Clarinet parts must be written one whole step higher than concert pitch (with the appropriate key change) in order to be read by most clarinet players. This is a holdover from the days (see <link target-id="p2b">above</link>) when players had clarinets in several different keys. Rather than make them learn different fingerings for each instrument, composers simply named the clarinet to be used and transposed parts so that the standard fingering would work.
+      </para>
+      <para id="p3a">
+The clarinet is a very versatile instrument with a large range, a great variety of timbres available, and an ease of play that allows very fast fingering, and great expressivity. 
+      </para>
+      <para id="p3b">
+To write effectively for clarinet, you should understand the instrument's range. The very top octave of the instrument is piercing, squeaky, and difficult for inexperienced players to control; it is best avoided unless you know your player can handle it or you want a very specific sound or effect. Oddly enough, the other range that presents difficulty is right in the middle of the staff. This range contains the instrument's "break". The sound here is not as powerful and fingerings in fast passages can be awkward.
+      </para>
+
+     <figure id="fig3a">
+       <title>Practical Considerations Over the Clarinet's Range</title>
+       <media id="idp9073424" alt=""><image src="../../media/clarinetpractical.png" mime-type="image/png"/></media>
+       <caption>The clarinet has two separate ranges in which the instrument can be used most effectively.</caption>
+     </figure>
+
+     <para id="p3c">
+The clarinet therefore has two main, very useful ranges, with very different timbres, in which the player can easily play with a full, powerful sound and quick fingers. In the low (<term>chalumeau</term>) range, the instrument has a dark, rich timbre; in its medium upper (<term>clarinet</term>) range, the clarinet has a clear, insistent sound that can be extremely expressive.
+     </para>
+
+    </section>
+
+ 
+  </content>
+  
+</document>

@@ -1,0 +1,65 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Band and Orchestral Idiophones</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>78eb2677-8bf4-4016-af0e-1d0ea622a31c</md:uuid>
+</metadata>
+  <content>
+  <section id="s0">
+  <title>Introduction</title>
+    <para id="p0a">Any musical instrument that gets its basic sound from something other than a vibrating string (<link document="m11896" target-id="s21">chordophones  </link>), vibrating air column  (<link document="m11896" target-id="s22">aerophones</link>), or electric signals (<link document="m11896" target-id="s25">electrophones</link>), is considered a <link document="m11897" target-id="s14">percussion</link> instrument, and the musician who specializes in playing this large variety of instruments is a <term>percussionist</term>. Percussion instruments are further classified as being either <link document="m11896" target-id="s23">membranophones </link> (drums) or <link document="m11896" target-id="s24">idiophones</link>. This is an introduction to the  idiophones most commonly found in <link document="m11421">Western</link> bands and orchestras.</para><para id="element-363">Instruments are classified according to how their sound is produced. The Greek <foreign>idios</foreign>, meaning “one’s own”, refers to the fact that in idiophones, it is usually the body of the instrument itself that is producing the original vibrations (as opposed to chordophones, for example, in which the instrument’s body is just a resonator for the strings). In some idiophones (xylophones, for example), there is a whole series of potentially-vibrating pieces, but the main idea is still the same: the instrument (or piece of the instrument) is hung or held in some way so that it can vibrate freely when it is played. </para>
+
+<para id="element-171">Idiophones are further classified according to the action that causes the vibration. Idiophones are very common in music traditions throughout the world, and some categories (such as stamped or plucked idiophones) don't even have a representative in the typical Western ensemble. The categories that are represented in the typical band or orchestra include <link target-id="s1">percussion</link>, <link target-id="s2">concussion</link>, <link target-id="s3">shaken</link>, and <link target-id="s4">scraped</link> idiophones. Each of these categories includes many, many instruments from many musical traditions around the world. For each of these categories, you will find a list below of the instruments most commonly found in orchestras and bands.</para>
+</section>
+
+<section id="s1">
+  <title>Percussion Idiophones</title>
+<para id="p1a"><term>Percussion idiophones</term> are hit with slender, hard wooden sticks, or with beaters or mallets. Beaters and mallets have a long handle with a head that hits the instrument. They come in a great variety of sizes and materials. The head may be of hard wood or plastic, for example, or may be wrapped in a softer material. The type of mallet used affects the <link document="m11059">timbre</link> of the sound produced, so the percussionist will choose specific mallets or beaters based on the sound wanted for a particular piece.
+</para>
+<list id="perclist"><item><emphasis>Struck bells</emphasis> - produce a clear, ringing bell sound when hit. The type of bell most commonly found in an orchestra or band is a set of <term>tubular bells</term>. Each bell is a long thin metal tube tuned to a specific <link document="m10943">pitch</link>. The tubes are all hung on a rack, usually arranged in two rows in the same pattern as a piano keyboard (with the <link document="m10943">natural</link> notes in one row and the <link document="m10943">flat and sharp notes</link> in the other). Because there is a bell for each note of the <link document="m10866" target-id="p0bb">chromatic scale</link>, tubular bells, like xylophones and glockenspiels, are idiophones that can play melodies. Bells have been a regular part of the orchestra since the 1900's.</item>
+<item><emphasis>Gongs</emphasis> - When struck, usually with a soft beater, a gong produces a more complex, and often longer-lasting sound than the clearer sound of a struck bell. Gongs come in many sizes and shapes, but the typical orchestral gong is large and round and is used sparingly for special effects or for an exotic flavor.</item>
+<item><emphasis>Xylophones</emphasis> - consist of large numbers of bars of wood, with each bar tuned to produce a specific note when struck. The bars of a standard xylophone are arranged in two rows, using the same pattern (with <link document="m10943">natural</link> notes in the first row, and <link document="m10943">sharps and flats in the second</link>) as a piano keyboard. Two instruments in this family are commonly found in orchestras and bands: the orchestral xylophone and the <term>marimba</term>, which sounds an <link document="m10862">octave</link> lower, and has a mellower sound than the bright <link document="m11059">timbre</link>  of the orchestral xylophone. Both have a set of resonating tubes to make the instrument loud enough to be heard. Each wooden bar has a tube beneath it that is just the right length to <link document="m13537">resonate</link> at the <link document="m10943">pitch</link> that that bar produces. In a <term>vibraphone</term> (often simply called <term>vibes</term>), each resonator tube has a rotating fan in it. This produces a vibrato effect that is particular popular in jazz bands.</item>
+<item><emphasis>Metallophones</emphasis> - Are very silmilar to xylophones, except that the tuned bars are made of metal. The <term>glockenspiel</term>, often found in marching bands, is the most common metallophone in the Western tradition.</item>
+
+<item>
+<emphasis>Wood blocks</emphasis> - are similar to xylophones in that the part of the instrument that vibrates is a block of wood. The wood block is larger and hollower than the bar in a xylophone, however, so it gets a louder, more penetrating sound. Wood blocks often come in multiple sizes (two-tone blocks are very common), but they are not considered tuned percussion and don't play melodies as xylophones do.
+</item>
+<item>
+<emphasis>Triangle</emphasis> - is simply a thin bar of metal bent to form a triangle shape (which does not affect its sound; it is simply easier to hang in that shape). It is struck with a metal beater. Triangles come in different sizes, with different tones, but are not tuned idiophones. The triangle is a very traditional part of the orchestra percussion, commonly found in scores since the Classical period.
+</item></list>
+</section>
+
+<section id="s2">
+  <title>Concussion Idiophones</title>
+<para id="p2a">
+<term>Concussion idiophones</term> are played by clashing two of them together.
+</para>
+<list id="conclist"><item><emphasis>Cymbals</emphasis> - Are metal idiophones with a flattened, rounded shape, played by hitting two of them against each other. Sometimes a single cymbal is played with a drumstick, turning it into a percussion idiophone. Cymbals are a very old and integral part of the orchestra and band percussion.</item>
+<item><emphasis>Castanets</emphasis> - are usually small rounded pieces of wood. Borrowed from the Spanish folk tradition, they are used sparingly, usually to give the music a specifically Spanish flavor.
+</item>
+<item><emphasis>Claves</emphasis> (pronounced "CLAH vaze") - are simply heavy wooden sticks. Borrowed from the Latin American tradition, they are found often in jazz bands when a Latin flavor is called for.</item>
+</list>
+
+</section>
+
+<section id="s3">
+  <title>Shaken Idiophones</title>
+<para id="p3a"><term>Shaken idiophones</term> are played by being shaken. Although these are not as common as drums, percussion idiophones, and concussion idiophones, there are several shaken idiophones that show up often in orchestral and band music. Most of these are used as "color" instruments, to suggest a certain style or genre of music, or even, in the case of jingle bells, to suggest a season.
+</para>
+<list id="shakenlist"><item><emphasis>Maracas</emphasis> - From the Latin American tradition, and usually played in pairs, maracas belong in the <term>rattle</term> family of shaken idiophones. They can be made of, and filled with, many different kinds of materials, from a coconut shell filled with seeds to a plastic shell filled with plastic beads. The hollowed part of the maraca is usually rounded, and has a handle.</item>
+<item>
+<emphasis>Shakers</emphasis> - are simply hollow vessels (without a handle) that are filled with something that makes a rattling sound when the vessel is shaken. They can also be made of and filled with many different kinds of materials (so that different shakers can have very differnt sounds), and they also come in a variety of sizes and shapes. (A shaker the size and shape of an egg is quite popular with some jazz bands.)
+</item>
+<item><emphasis>Jingle Bells, or Sleigh Bells</emphasis> - The "jingle" family of shaken idiophones includes small idiophones that are always played in groups because each jingle by itself does not make a loud sound. In the case of sleigh bells, each jingle is a small, rounded clapper bell. A group of them are mounted on a strap, stick, or rounded handle so they may be played as a group.</item>
+<item>
+<emphasis>Tambourine</emphasis> - Tambourines are also in the jingle family. In this case, small cymbals are mounted on a frame so that they all sound when the frame is shaken. The frame is often round, and sometimes (but not always) also has a drumhead stretched across it so that it can be played as a drum (either with the hand or with a drum stick), producing a combination drum-jingle sound. Of the shaken idiophone family, the tambourine has the oldest orchestral pedigree, having been included in many scores since the Classical period.
+</item>
+</list>
+</section>
+
+<section id="s4">
+  <title>Scraped Idiophones</title>
+<para id="p4a"><term>Scraped idiophones</term> have a series of notches or ridges on them, and are played by scraping a stick or other implement across the notches. Scrapers are not very common in band or orchestral music, but a <term>washboard</term> (a ridged sheet of metal, from the North American "mountain music" tradition) or a <term>guiro</term> (a hollow, tubular wooden instrument, often shaped like a fish, from the Latin American tradition) may show up as a "color" instrument in concert or jazz band, to suggest a certain style or genre of music.</para><para id="element-398">In fact, there are many, many percussion instruments, from the many idiophone categories, that are only an occasional part of the band and orchestral repertoire, including such things as sandpaper blocks, anvils, cowbells, even old-fashioned typewriters. Some of these unusual instruments are borrowed from other musical traditions; others are simply borrowed by composers from the sounds of everyday life. Although some percussionists specialize, becoming expert drummers or marimba-players, for example, every band and orchestral percussionist becomes adept at playing a multitude of interesting instruments, often switching between instruments many times during a single a piece of music.</para>
+</section>
+
+  </content>
+  
+</document>

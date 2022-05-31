@@ -1,0 +1,90 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Keyboard Instruments</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m14567</md:content-id>
+  <md:title>Keyboard Instruments</md:title>
+  <md:abstract>A short introduction to the musical instruments that are played using a keyboard.</md:abstract>
+  <md:uuid>236cddc2-76d0-4e3a-bc4a-17c6deaf29b0</md:uuid>
+</metadata>
+  <content>
+
+  <section id="s0">
+  <title>Introduction</title>
+    <para id="p0a">
+A keyboard instrument is any instrument that is played using a piano-type keyboard, that is, a set of keys,  arranged in two rows, with the keys for the <link document="m10943">natural</link> notes (usually white) in the first row  and the keys for the <link document="m10943">flat and sharp</link> notes (usually black) in the second row. A key is played by pressing it down with a finger.
+    </para>   
+    
+<figure id="fig0a"><media id="id1170810206500" alt=""><image src="../../media/keyboard.png" mime-type="image/png"/><image for="pdf" src="../../media/keyboard.eps" mime-type="application/postscript"/></media>
+<caption>One <link document="m10862">octave</link> of the keyboard is arranged so that the seven natural notes within the octave are in front (the white keys) and the five flat-or-sharp notes are set back in a second row (the black keys). Almost all keyboards have many octaves.</caption>
+</figure>
+
+  <para id="p0b">Sometimes all of these instruments are grouped together as a "keyboard family", but when instruments are classified by how their sounds are produced, keyboard instruments are found in four of the five main classes of instruments (leaving out only the membranophones, or drums). There are  keyboard <link document="m11896" target-id="s21">chordophones</link>, <link document="m11896" target-id="s22">aerophones</link>, <link document="m11896" target-id="s24">idiophones</link>, and <link document="m11896" target-id="s25">electrophones</link>. </para>
+
+  <para id="p0c">
+Keyboard instruments are tremendously popular. The ease with which one person can play multiple notes, or even multiple independent lines, at the same time (an ease which is not really matched in any other instrument), makes them extremely versatile, good for playing solo, for providing the entire accompaniment for another soloist, for being part of an ensemble, and as an aid in composition or in explaining music theory. 
+  </para>
+
+  </section>
+  <section id="s1">
+  <title>Types of Keyboard Instruments</title>
+
+  <section id="s11">
+   <title>Chordophones</title>
+
+    <para id="p11aa">A <link document="m11896" target-id="s21">chordophone</link> keyboard instrument has a resonating body, usually made of wood, with a rack of strings inside it. Pressing a key causes the string or strings for that key to vibrate. There are several instruments in this family, and the major difference between them is the mechanism by which the key causes the strings to vibrate.
+    </para>
+   <para id="p11a">The most familiar and popular of the keyboard instruments is the <term>piano</term>. When a key of a piano is pressed, it causes a hammer to hit the strings for that key. The mechanism that connects the key to the hammer is engineered to allow the piano to be sensitive to finger pressure; if you press a piano key gently, the hammer will hit gently and the sound will be soft. If you press it harder, the hammer will hit the strings harder, and the sound will be louder. The full name for this instrument, <term>pianoforte</term>, means "soft loud", and reflects this sensitivity to finger pressure. The mechanical system which allows this was an important innovation that allows the piano to be played with great nuance and expression, and is the main reason the piano has almost completely replaced the other chordophone keyboards.
+   </para>
+   <para id="p11b">The piano's popularity means that it is commonly found not just in concert halls, but in homes, music classrooms, churches, activity rooms, bars, restaurants, and any public or semi-public space where live music is commonly featured. The grand piano, which can have a body up to nine feet long, is most commonly found in concert halls. "Baby" grands, which have a body around five feet long, are more common in other performance and teaching  venues. Upright pianos, which hold the rack of strings vertically so that the piano doesn't take up much floor space, are most popular in homes and other venues with limited space.
+   </para>
+   <para id="element-89">The typical piano has only one string per note for the lowest-sounding keys, two strings per note in the middle <link document="m12381" target-id="p4a">register</link>, and three strings for each high note. Because there is such a large number of strings, which must be tuned in <link document="m11639" target-id="s22">equal temperament</link>, the piano is the only instrument which is typically tuned by a professional rather than by the player. (Even harpsichords are usually tuned by the player, who may in fact be quite knowledgeable about various historically-accurate tunings that might be used).</para><para id="p11bc">Pianos are very common in many genres and styles of music, including <link document="m11421">Western</link> art music, jazz, and stage and popular musics.
+   </para>
+   <para id="p11c">Another group of chordophone keyboards uses a quill or plectrum to pluck the appropriate string when a key is pressed. The most important instrument in this group is the <term>harpsichord</term>, which during the seventeenth and eighteenth centuries (basically, the Baroque and Classical periods) enjoyed the kind of popularity that the piano enjoys today. The harpsichord was very widely used in performances, both as a solo instrument and in a wide variety of ensembles. In many genres of music of this era, it was simply assumed that a harpsichord would be included to reinforce the harmonies. In orchestras, the ensemble leader typically played the harpsichord, rather than conducting with a baton as modern ensemble leaders do. </para>
+    <para id="p11cc">The harpsichord is smaller than the piano, with a smaller but brighter sound. Like the <link target-id="p12a">pipe organ</link>, a harpsichord may have more than one keyboard (or <term>manual</term>), with stops that allow one to select a different tone quality for each keyboard.
+    </para>
+    <para id="p11cd"><term>Virginals</term> and <term>spinets</term> are close relatives of the harpsichord. They were also tremendously popular in Europe in the seventeenth and eighteenth centuries, and were also left behind when the piano gained its popularity.  Both virginals and spinets use a harpsichord-like plucked-string action; both generally are smaller and have shorter keyboards than the harpsichord. They were mostly used for playing in the home. The difference between a virginal and a spinet lies in how the strings are placed inside the instrument and does not affect the player or the sound.
+   </para>
+   <para id="p11d">The <term>clavichord</term> was also very popular during the Baroque period. It gets its sound when a small upright brass wedge strikes a pair of strings. This wedge, called the <term>tangent</term>, stays in contact with the strings after falling, giving the clavichord a unique ability that no other keyboard instrument has.</para>
+  <para id="p11e">As mentioned <link target-id="p11a">above</link>, the piano can vary the loudness of the beginning of each note. After that <link document="m11884" target-id="p0b">attack</link>, however, the pianist is limited to either stopping the sound or allowing it to die away as the string gradually stops vibrating. An organist, similarly, once a note is played, is limited to stopping it or allowing it to continue. All other keyboard instruments, in fact, except for the clavichord, allow the player little chance to change the note once it has begun. In contrast, singers, and <link document="m11897" target-id="s11">string</link> and <link document="m12364">wind</link> players can make all kinds of changes to a note once it has begun, including adding vibrato, making the note swell up or die down, or even changing its <link document="m10943">pitch</link>. A clavichord player can use finger pressure on the keys to get these kinds of effects, and this ability to shape and alter notes gives this instrument an even greater ability than the piano to play with sensitivity and nuance. Unfortunately, its very small, intimate sound is too quiet for concert situations, and is rarely seen or heard today.
+   
+  </para>
+
+  </section>
+  <section id="s12">
+  <title>Aerophones</title>
+  
+   <para id="p12a">The oldest keyboard instrument, developed in ancient Greece and Rome and a mainstay of medieval church music, is the organ. <term>Pipe organs</term> get their sound from air vibrating inside a set of pipes. The organ has a source of air under pressure - traditionally from a bellows - and pressing a key sends the air through a particular pipe. The pipe either has a reed held in a frame inside it, or it has a whistle-type sharp-edged hole in its side. The reed or the hole causes a <link document="m12413">standing wave</link> of vibrating air inside the tube. (See <link document="m12589">Standing Waves and Wind Instruments</link> for more about this, including an explanation for the differences in pitch between "stopped" and "open" organ pipes.) As with other <link document="m11896" target-id="s22">aerophones</link>, the larger the pipe, the lower its <link document="m10943">pitch</link>, so just as a piano has a whole set of strings, each tuned to a specific pitch, an organ must have an entire set of pipes, each tuned (by its length) to a specific pitch. Large pipe organs may have many sets of pipes, with each set having a different <link document="m11059">timbre</link>, so that the organist can vary the sound of the instrument. Large pipe organs are equipped with multiple keyboards (called <term>manuals</term>); there is usually even a keyboard of pedals (the pedalboard) for the feet. The organist uses <term>stops</term> (switches or knobs) to choose the pipes for each keyboard, and then plays different parts of the music on different keyboards, so that each part has a distinct timbre, as it would if a variety of instruments were playing.
+   </para>
+   <para id="element-776">One major difference between chordophone and aerophone keyboards is that the air continues to go through the pipe of an organ as long as the key is pressed, for a constant sound that does not die away, whereas the sound of the strings of a chordophone keyboard dies away (slowly or quickly, depending on the instrument).</para><para id="p12b">Because of its centrality to church music and its ability to play <link document="m11645" target-id="s13">polyphony</link> (multiple independent lines), the pipe organ was perhaps the most important in Western art music through the end of the middle ages and into the Renaissance and Baroque periods. During the eighteenth century, however, composers who were interested in writing complex music began to focus on orchestras and other ensembles instead, and the organ began to fade in importance. Because a full pipe organ is extremely non-portable, most of these instruments are found in churches and concert halls, and its popularity now is also confined to sacred music and classical/art music.
+   </para>
+   <para id="p12c">A less well-known aerophone keyboard is the <term>harmonium</term>, which, like a pipe organ, has a keyboard and a source of forced air (often from a foot-operated bellows). Approximately the size of an upright piano or a small organ, and equipped with organ-style <link target-id="p12a">stops</link> to change its <link document="m11059">timbre</link>, the harmonium is often called  an organ, but instead of pipes, it simply has a set of reeds. Pressing a key causes the air to flow past the reed that is tuned for that pitch. (The longer the reed, the lower the pitch.)
+   </para>
+ <para id="element-228">The <term>accordion</term> also gets its sound by pushing air past reeds, so it is a close relative of the harmonium. Some accordions have a piano-type keyboard, but many do not, and accordions are usually played by  musicians specializing in the instrument, not by piano/keyboard players.</para>
+
+  </section>
+  <section id="s14">
+    <title>Idiophones</title>
+
+  <para id="p14a">
+There are several important <link document="m11896" target-id="s24">idiophones</link> (non-drum <link document="m11897" target-id="s14">percussion</link>) that have their played parts arranged in two rows just like a keyboard. These include the xylophone, marimba, vibraphone, glockenspiel, and tubular bells (chimes). These instruments are all played by directly striking the instrument with a stick or mallet held by the player, so they are not not considered keyboard instruments.
+  </para>
+  <para id="p14b">
+The only idiophone that actually uses a keyboard is the <term>celeste</term>, which is a keyboard version of the glockenspiel. A glockenspiel consists of a set of metal bars, each tuned by its size and shape to a note of a <link document="m10866" target-id="p0bb">chromatic scale</link>. The bars are set in a keyboard-type arrangement, with natural notes in one row, and sharp/flat notes in another. (This is basically a metal version of a xylophone, which uses wood blocks instead of metal bars. In fact, the metal "xylophones" that are a popular children's toy/instrument are technically glockenspiels.) 
+  </para>
+  <para id="p14c">
+In a celeste, which usually looks like a very small upright piano,the metal bars are struck by felt-covered hammers when the keyboard is played. The celeste is usually found in the percussion section of the orchestra, where its very bright, bell-like tone is used to provide an interesting and unusual sound, and it is often played by a percussionist rather than a keyboard player.
+  </para>
+
+  </section>
+
+ <section id="s13">
+  <title>Electrophones</title>
+  
+   <para id="p13a">Recently, electric organs and synthesizers have become favorite instruments in many musical genres and venues. In both electric organs and synthesizers, the sound is created with electrical signals that are turned into sound at the loudspeaker or headphones. An electric (or electronic) organ usually specializes in playing sounds specifically associated with pianos and organs. Synthesizers usually specialize in playing all sorts of sounds, including both imitations of other instruments and sounds which no other instruments produce. A synthesizer may be played using something other than a keyboard (a guitar-like fretboard, for example), but keyboard synthesizers are most common. Both electric organs and synthesizers are very commonly found in jazz and all kinds of popular musics, and electric organs are also common in churches and other venues where a smaller, more portable instrument is useful.</para>
+
+  </section>
+  </section>
+
+  </content>
+  
+</document>

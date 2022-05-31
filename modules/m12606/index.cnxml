@@ -1,0 +1,117 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Trumpets and Cornets</title>
+  <metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m12606</md:content-id>
+  <md:title>Trumpets and Cornets</md:title>
+  <md:abstract>Trumpet and cornet are closely-related high-pitched brass aerophones commonly found in bands and orchestras.</md:abstract>
+  <md:uuid>cd9ab01b-192d-4eb9-b38f-de07fe1a3451</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="supplemental">
+      <link url="http://cnx.rice.edu/content/m12589/latest/" strength="3">Standing Waves and Wind Instruments</link>
+      <link url="http://cnx.rice.edu/content/m12364/latest/" strength="3">Wind Instruments - Some Basics</link>
+      <link url="http://cnx.rice.edu/content/m11897/latest/" strength="3">Orchestral Instruments</link>
+      <link url="http://cnx.rice.edu/content/m11118/latest/" strength="2">Harmonic Series</link>
+      <link url="http://cnx.rice.edu/content/m11896/latest/" strength="2">Classifying Instruments</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+
+
+    <section id="s0">
+       <title>Introduction</title>
+
+       <para id="p0a">
+The <term>trumpet</term> is the smallest, highest-sounding instrument in the <link document="m11897" target-id="s13">brass</link> section of the <link document="m11421">Western</link> <link document="m11897">orchestra</link>. It is a <link document="m12364" target-id="p1c">cylindrical</link> <link document="m11896" target-id="s22">aerophone</link> with a direct, brassy <link document="m11059">timbre</link>. The <term>cornet</term> is very similar to the trumpet, but has a more <link document="m12364" target-id="p1c">conical</link> bore, giving it a slightly gentler, mellower sound. Both trumpets and cornets are common in bands and wind ensembles of all kinds (jazz, classical, pop, military, instructional, etc.). In some groups, they are treated as interchangeable instruments; in other groups, trumpets and cornets have distinct and separate parts.
+       </para>
+
+    <figure id="fig0a">
+      <title>B Flat Trumpet</title>
+      <media id="id1168772548814" alt=""><image src="../../media/trumpet45.jpg" mime-type="image/jpeg"/></media>
+    </figure>
+
+    </section>   
+    <section id="s1">
+       <title>The Instruments</title>
+
+       <para id="p1a">Both instruments are made of metal tubing (usually brass, but sometimes a silver alloy) with a detachable <link document="m12364" target-id="p1b">mouthpiece</link> at one end and a flaring <term>bell</term> at the other end. Three <link document="m12364" target-id="p2f">valves</link> are used to open extra sections of tubing, making the instrument slightly longer, and allowing it to get a different set of notes. (See <link document="m11118">Harmonic Series</link> for more information on how this works.) The trumpet has a narrower, more <link document="m12364" target-id="p1c">cylindrical bore</link>; the cornet has more gradually flared, <link document="m12364" target-id="p1c">conical bore</link>. Also, the way a trumpet is <term>wrapped</term> (that is, the way the tubing is bent and arranged) usually gives it a longer, thinner profile than a cornet. Either one may be a non-transposing C instrument, or may be a slightly longer B flat <link document="m10672">transposing instrument</link>. 
+       </para>
+    <para id="p1b">
+There is also a smaller D trumpet for playing high parts, and an even smaller B flat <term>piccolo trumpet</term>, pitched an octave above the regular B flat trumpet. These are considered specialty instruments, however, and are not nearly as common as the B flat and C instruments.
+    </para>
+      <para id="p1c">
+Another slightly unusual instrument, the <term>flugelhorn</term>, has an even wider, more conical bore than the cornet, and an even gentler, mellower sound. It is mostly heard in jazz. 
+      </para>
+
+       <figure id="fig1a"><title>Written Range of the Trumpet</title>
+         <media id="id1168767600769" alt="">
+           <image src="../../media/Trumpetrange.png" mime-type="image/png"/>
+           <image for="pdf" src="../../media/Trumpetrange.eps" mime-type="application/postscript"/>
+         </media>
+         <caption>A trumpet or cornet in C will sound as written. A trumpet or cornet in B flat will sound one step (whole tone) lower than written.</caption>
+       </figure>
+
+    </section>
+    <section id="s2">
+      <title>History</title>
+
+      <para id="p2a">
+Trumpet-like instruments have been around for at least 4000 years. Early trumpets, like the modern <term>bugle</term>, had no valves. Thus, a single trumpet could only get the notes of a single <link document="m11118">harmonic series</link>. The higher you go in a harmonic series, the closer together the notes get. This makes it possible to play many more types of melodies (rather than just "bugle call"-type melodies), but also makes playing trickier. Since the notes are closer together, it's much easier to hit the wrong note! So trumpet players specialized: <term>principal</term> players played in the lower register, and <term>clarino</term> players played in the high register.
+    </para>
+    <para id="p2b">
+In the fifteenth century, there were trumpet-player's guilds, which registered clarino and principal trumpet players and which, like other guilds of the time, ensured that only their members would be allowed to do certain types of work (in this case, playing at feasts, processions, and other official musical events). 
+    </para>
+    <para id="p2c">
+As late as the Baroque period, composers such as Bach were still specifying some parts for clarino trumpet. But after the Baroque, the clarino tradition vanished so completely, that modern scholars have been unable to discover exactly what type of instrument Baroque clarino parts were played on. 
+    </para>
+      <para id="p2d">
+Useful valved trumpets began to be produced in the early 19th century. The introduction of the valve freed the instrument to play any type of melody in any key in any part of its range. Earlier trumpets came in many different keys, so that players in the lower <link document="m12381" target-id="s4">register</link> could choose an instrument that suited the key of a particular piece of music. With the introduction of valved trumpets, which can play the entire <link document="m10866" target-id="p0bb">chromatic scale</link> easily, the C and B flat instruments became the most popular, with trumpets in other keys becoming increasingly rare.
+      </para>
+    <para id="p2e">
+The cornet developed from the post horn, a small, valveless instrument which was used by postal carriers to announce the arrival in town of the mail. The flugelhorn evolved from a German bugle used by each wing of beaters during a hunt. (<foreign>Flugel</foreign> is German for "wing".) 
+    </para>
+
+    </section>
+
+    <section id="s4">
+      <title>Repertoire</title>
+
+      <para id="p4a">
+Trumpet is featured in many orchestral works. Some easy-to-find examples are Rossini's <cite><cite-title>William Tell</cite-title></cite> Overture, Bach's <cite><cite-title>Brandenburg Concerto #2</cite-title></cite>, the "Rondeau" from Mouret's <cite><cite-title>First Symphonic Suite</cite-title></cite> (the "Masterpiece Theater" theme), and Ravel's orchestration of Moussorgsky's <cite><cite-title>Pictures at an Exhibition</cite-title></cite>.
+      </para>
+      <para id="p4b">
+The "110 cornets" mentioned in the well-known "76 Trombones" song from <cite><cite-title>The Music Man</cite-title></cite> underscores the important place that the trumpet and particularly the cornet have always held in band music and marches. Listen for the trumpet in march melodies, in band music such as Anderson's <cite><cite-title>Bugler's Holiday</cite-title></cite>, in concert wind ensemble music, and in fanfares such as Arnaud's <cite><cite-title>Bugler's Dream</cite-title></cite> (best known as the "Olympic Theme" fanfare) and Copland's <cite><cite-title>Fanfare for the Common Man</cite-title></cite>.
+      </para>
+      <para id="p4d">
+The trumpet's long association with marches, fanfares, and military music is also used in classical music. For example, the "Fest" march from Wagner's <cite><cite-title>Tannhauser</cite-title></cite> and the "Triumphal March" from <cite><cite-title>Aida</cite-title></cite>, the march from Tchaikovsky's <cite><cite-title>The Nutcracker</cite-title></cite>, and "The Trumpet Shall Sound" from Handel's <cite><cite-title>Messiah</cite-title></cite>.
+      </para>
+      <para id="p4e">
+If jazz or pop trumpet and cornet sound more interesting to you, look for recordings of Louis Armstrong, Dizzie Gillespie, Wynton Marsalis, or Miles Davis (who popularized the use of the flugelhorn in jazz), to name just a few. The Herb Alpert band also featured trumpets with catchy jazz rhythms. Trumpet (or cornet) is also featured in "big band" and dixieland jazz, and in pop bands with brass sections. For piccolo trumpet, listen to the Beatle's "Penny Lane".
+      </para>
+      <para id="p4f">If you would like to listen to solo trumpet, look for Clark's <cite><cite-title>Trumpet Voluntary</cite-title></cite>, or for one of many trumpet concertos written by various composers, including Haydn and Hummel. Most small brass ensembles also include trumpets. Easiest to find in this category are music by Gabrieli or brass quintets.
+      </para>
+
+    </section>
+
+    <section id="s3">
+      <title>Practical Information for Composers and Arrangers</title>
+
+      <para id="p3b">
+There are non-transposing concert-pitch ("C") trumpets and cornets, but there are also B flat instruments (cornets are particularly likely to be pitched in B flat), which are <link document="m10672">transposing instruments</link>. Since most players only have one instrument, it is a good idea to include both a C and a B flat version of every trumpet or cornet part that you write, unless you are certain which type of instrument your player will have.
+      </para>
+      <para id="p3a">
+For young or beginning players, notes above the staff and below written middle C should be avoided. Exceptional players can get notes well above the C above the staff, but it's not a good idea to write notes in this range, unless you are certain your player can play them. Even experienced players will have trouble playing parts with long sections of the music above the staff, or very tricky passages in the upper register.
+      </para>
+      <para id="p3c">In general, though, the trumpet and cornet are the most agile of the orchestral brass, capable of playing fast notes and large leaps. Being high-pitched brass instruments, they are also both very capable of being heard over large ensembles or in outdoor performances. Due to long-standing associations with certain types of music, both instruments are ideal for giving tunes either a military/fanfare or a jazz/pop flavor. Differences in <link document="m11059">timbre</link> between trumpets and cornets are slight and will not be noticed by most listeners.
+      </para>
+
+    </section>
+
+
+  </content>
+  
+</document>

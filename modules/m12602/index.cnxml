@@ -1,0 +1,112 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Trombones</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>d6bb9dc3-348a-46f8-a491-99df6a871a4b</md:uuid>
+</metadata>
+
+  <content>
+
+    <section id="s0">
+       <title>Introduction</title>
+
+       <para id="p0a">
+The trombone is a medium-size <link document="m12364" target-id="p1c">cylindrical</link> <link document="m11897" target-id="s13">brass</link> <link document="m11896" target-id="s22">aerophone</link> with a fairly low <link document="m12381">range</link>. It is a mainstay of the brass section of orchestras, marching bands, and jazz bands. The feature that sets the trombone apart from other common <link document="m11421">Western</link> instruments is its slide. 
+       </para>
+    <figure id="fig0a">
+      <title>A Bass Trombone</title>
+      <media id="idm3219264" alt=""><image src="../../media/bassbone50.jpg" mime-type="image/jpeg"/></media>
+      <caption>This bass trombone has valves and extra tubing to help it get the lowest notes, as well as the moveable slide (out in front of the bell) common to all trombones.</caption>
+    </figure>
+
+    </section>   
+    <section id="s1">
+       <title>The Instrument</title>
+
+       <para id="p1a">
+Like other <link document="m11897" target-id="s13">orchestral brass</link>, the trombone has a <link document="m12364" target-id="p1b">mouthpiece</link>, a main body of tubing, and a bell. The basically <link document="m12364" target-id="p1c">cylindrical</link> shape of the trombone's tubing (as opposed to the more conical baritones and tubas) gives the trombone a  clear, direct, brassy sound that is very popular in jazz and band music.
+       </para>
+       <para id="p1b">
+The instrument changes pitch using a moveable section of tubing called the <term>slide</term>. As the slide moves out, the instrument gets longer, and the sound gets lower. You might be tempted to think this means that there is one note available for any possible position of the trombone's slide, but this is not the case. Most possible placements of a trombone slide give <link document="m10943">pitches</link> that sound wrong or out of tune, because they fall in between the notes of the <link document="m10866" target-id="p0bb">chromatic scale</link>. These in-between notes are only used when the trombone plays a <term>glissando</term>, sliding between the notes on purpose. There are seven <term>slide positions</term> that do give scale notes. Having the slide all the way in is position 1; having the slide all the way out is position 7. The other positions are spread out in between, with several inches between one position and the next. 
+       </para>
+       <para id="p1c">
+But of course, the trombone can get more than seven notes. Like the brass instruments that only have a few valves (trumpet and horn, for example), the trombone can use changes in the player's <link document="m12364" target-id="p2a">embouchure</link> to get many different notes from a different <link document="m11118">harmonic series</link> at each position.
+       </para>
+
+       <figure id="fig1c"><media id="idm2074048" alt=""><image src="../../media/slidepositions.png" mime-type="image/png"/></media><caption>The trombone can play many different notes in each slide position; the figure shows only the lowest six notes possible for first and seventh positions. Each position gives the player a different <link document="m11118">harmonic series</link> of possible notes to play.</caption></figure>
+
+    <para id="p1e">
+Seven positions, each a <link document="m10866">half step</link> apart, will cover a <link document="m10867" target-id="p21a">tritone</link> (about half an octave). This is plenty everywhere in the trombone's range, except at the very bottom, in between the <link document="m11118" target-id="p1c">fundamental</link> and the second harmonic, which are a whole <link document="m10862">octave</link> apart. So some trombones - especially bass trombones - have an extra length of tubing opened by a valve (called the <term>plug</term> or <term>trigger</term>) that allows them to play the rest of that lowest octave. (If you want or need to understand this paragraph, and don't, please see <link document="m11118">Harmonic Series</link>.)
+    </para>
+
+       <para id="p1d">Before <link document="m10867" target-id="p21b">valved</link> brass were common, trombones were widely available in a variety of sizes (see <link target-id="s2">below</link>), but most of these are now rare. The <term>soprano</term> trombone, for example, plays in the same <link document="m12381">range</link> as the modern <link document="m12606">trumpet</link>, which has replaced it in most ensembles. Also rare are the <term>sopranino</term> trombone, which is even smaller and higher than the soprano, and the <term>piccolo</term>, the highest of all. The instrument that is now commonly called "the trombone" is the <term>tenor trombone</term>, which sounds one <link document="m10862">octave</link>
+ lower than the soprano/trumpet <link document="m12381">range</link>. The trombone section of most orchestras and bands will also have at least one <term>bass trombone</term>, which has a deeper sound, a slightly lower range than the tenor, and a fuller, more focussed sound on low notes. The <term>alto</term>, which is smaller and higher than the tenor, but not as high as the soprano, and the <term>contrabass</term>, which sounds even lower than bass, are now rarely played.
+      </para>
+
+       <figure id="fig1a">
+         <title>Tenor Trombone Range</title>
+         <media id="idm7471872" alt=""><image src="../../media/trombonerange.png" mime-type="image/png"/></media>
+         <caption>Above and below are the practical ranges for the tenor and bass trombone. Experienced players may be able to play above and below these ranges, and exceptional players can play much higher notes.</caption>
+       </figure>
+
+       <figure id="fig1b">
+         <title>Bass Trombone Range</title>
+         <media id="idm1260832" alt=""><image src="../../media/bassbonerange.png" mime-type="image/png"/></media>
+         
+       </figure>
+
+    </section>
+    <section id="s2">
+      <title>History</title>
+
+      <para id="p2a">Unlike most other <link document="12364">wind instruments</link>, the basic design of the trombone has not changed much for centuries. It was developed in Europe, first appearing as the <term>sackbut</term> in the 1400's. In the 1800's, when valves were being added to other brass instruments such as the trumpet and horn, there were also experimental valve trombones, but they never gained much popularity. A modern trombone may have one or two valves that help extend its lower range, but the main work of changing pitches is still done using the slide.
+      </para>
+      <para id="p2b">
+At first, the sackbut/trombone was used mainly as a church instrument. Its <link document="m11059">timbre</link> was considered to blend well with voices, and its ability to use its slide to make the subtle changes in tuning needed for the different church <link document="m11633">modes</link> made it ideal to accompany plainsong chant. 
+      </para>
+    <para id="p2c">
+Possibly because of its strong association with church music, the trombone was used sparingly in orchestras until the late Romantic period. Even when it did appear in the concert hall, it was often used to evoke religion, mortality, or the supernatural. (Examples of this include Beethoven's <cite><cite-title>Symphony No. 5</cite-title></cite>, Rimsky-Korsakov's <cite><cite-title>Russian Easter Overture</cite-title></cite>, the appearance of the ghost in Mozart's <cite><cite-title>Don Giovanni</cite-title></cite>, and Weber's <cite><cite-title>Der Freischutz</cite-title></cite>, another opera with supernatural themes.)
+    </para>
+      
+    <para id="p2d">Eventually the organ replaced the trombone in church music, the association faded, and the trombone became a full member of the orchestra. It also became a key instrument in many kinds of bands, and its strongest association these days is probably with marching bands and jazz bands.
+    </para><para id="element-498">The various trombones originally played in the <link document="m10941">clefs</link> deemed appropriate for their parts, alto trombones playing mostly in alto clef, for example. Nowadays, beginning trombone players learn bass clef, and most modern parts for both tenor and bass trombone are in bass clef. However, it is not uncommon for older parts to still appear in their original clef; the first trombone part may be in alto clef, for example, the second in tenor, and the third in bass clef. Or more than one clef might appear on the same part. British band music often includes <link document="m10672">transposing</link> treble clef parts for the trombones.</para>
+
+    </section>
+
+    <section id="s4">
+      <title>Repertoire</title>
+
+    <para id="p4a">
+Trombones are a perennial favorite band instrument. Listen for trombones in jazz bands, particularly "big band" music (Tommy Dorsey was a trombone player) and dixieland jazz. Popular marches like Sousa's <cite><cite-title>The Stars and Stripes Forever</cite-title></cite> and <cite><cite-title>National Emblem</cite-title></cite>, and King's <cite><cite-title>Barnum and Bailey's Favorite</cite-title></cite> (to name just a few examples out of many) also tend to feature the trombone, sometimes on <link document="m11647">melody</link>, but even more often in the <link document="m11634" target-id="s1">countermelody</link>. Most smaller brass ensembles will have at least one trombone: brass quintets and the works of Gabrieli (originally written to be played in church by <link target-id="s2">sackbuts</link> and other early brass instruments) are the easiest to find. Trombones usually play a supporting role in orchestras, but you may want to look up the pieces mentioned in the history section <link target-id="p2c">above</link>. Other orchestral pieces that feature low brass, including trombones:
+    </para>
+
+      <list id="l4a"><item>
+ Gustav Holst's <cite><cite-title>The Planets</cite-title></cite>, particularly "Mars" and "Uranus", but also "Jupiter" and "Saturn"
+        </item>
+       <item>
+Ravel's orchestration of Moussorgsky's <cite><cite-title>Pictures at an Exhibition</cite-title></cite> and Rimsky-Korsakov's popular orchestration of Moussorgsky's <cite><cite-title>Night on Bare Mountain</cite-title></cite> (also translated <cite><cite-title>Night on Bald Mountain</cite-title></cite>).
+       </item>
+        <item>
+Listen for sliding trombone glissandos in Khatchaturian's <cite><cite-title>Sabre Dance</cite-title></cite>
+        </item>
+      </list>
+    </section>
+
+    <section id="s3">
+      <title>Practical Information for Composers and Arrangers</title>
+
+      <para id="p3a">The trombone may be considered to be "in B flat", since its first position gives a B flat <link document="m11118">harmonic series</link>, but it is usually a <link document="m10672">non-transposing</link> instrument with concert-pitch (C) parts. Modern trombone music is normally written in bass clef. However, as mentioned <link target-id="p1da">above</link>, older trombone parts were often written in alto or tenor clef (and very occasionally treble). So parts to many famous classical pieces are still in these clefs, and modern trombone parts also occasionally use tenor or alto clef. These parts are also non-transposing, concert-pitch parts. Most American band and jazz music has the trombone reading mostly bass clef, and usually at concert pitch. But British brass bands often have the higher trombone parts written in treble clef as a <link document="m10672">transposing</link> B flat instrument. Thus many trombone players will be comfortable reading parts in whatever clef you would like and even transposing on sight; but if you are writing for a particular ensemble, you may want to find out what clefs and transpositions the players are comfortable reading.
+      </para>
+      <para id="p3b">
+Trombones have a bright, brassy <link document="m11059">timbre</link> that is easily heard even outdoors or even in a large ensemble. Because of long-standing association with certain types of music, the sound of a trombone is ideal for marches, fanfares, and solemn processionals, but also any time you want a jazzy sound.
+      </para>
+      <para id="p3c">When you want unusual effects, remember that short glissandos are a trombone specialty. A short glissando that stays within the range of a single (seventh-to-first-position) partial is very easy for even inexperienced players. Several different kinds of mutes are also available that give a variety <link document="m11059">timbres</link>, some very popular for jazz, and some that are also capable of ear-catching effects such as the plunger-mute "wah".
+      </para>
+      <para id="p3d">
+Because of the realities of changing notes with a slide, the trombone is not as agile as many other instruments. Do not write long passages of very fast notes. Even short passages of very fast notes are not advisable in some keys. Be aware that slurring smoothly is more difficult for trombone than for valved brass.
+      </para>
+
+    </section>
+
+
+  </content>
+  
+</document>

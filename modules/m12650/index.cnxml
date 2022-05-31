@@ -1,0 +1,89 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Baritones and Euphoniums</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>48b34033-783a-4e90-983f-dc760f357500</md:uuid>
+</metadata>
+
+  <content>
+
+    <section id="s0">
+       <title>Introduction</title>
+
+       <para id="p0a">
+Baritones and euphoniums are <link document="m11896" target-id="s22">aerophones</link> in the <link document="m11897" target-id="s13">brass</link> family. They are closely related instruments, both fairly large and with a medium-low range. They are generally not considered orchestral instruments, but are an important part of the <link document="m11421">Western</link> band tradition.
+       </para>
+
+    </section>   
+    <section id="s1">
+       <title>The Instruments</title>
+
+      <para id="p1c">
+Like other instruments in the brass family, baritones and euphoniums are played by buzzing the lips against a cup <link document="m12364" target-id="p1b">mouthpiece</link>. The air then moves through the brass tubing and leaves through the <link document="m12364" target-id="s1">bell</link> at the other end of the instrument. The <link document="m12364" target-id="p2f">valves</link>  change the playing length of the instrument, making it possible to play several <link document="m11118">harmonic series</link> that together allow the instrument to play any <link document="m10866" target-id="p0bb">chromatic</link> note in its range. For more on how brass instruments work, please see <link document="m12364">Wind Instruments: Some Basics</link>, <link document="m12589">Standing Waves and Wind Instruments</link>, and <link document="m11118">Harmonic Series</link>.)
+      </para>
+       <para id="p1a">
+Baritones and euphoniums are valved brass instruments that have a <link document="m12381">range</link> similar to the slide <link document="m12602">trombone</link>, higher than a <link document="m12617">tuba</link> and about an <link document="m10862">octave</link> below the <link document="m12606">trumpet</link>. The valved tenor-range brass instruments are a slightly confusing group of instruments. They are usually held upright, with the bell pointing either straight up or up-and-forward, but they may also be shaped like a very large trumpet, held horizontally with the bell pointing forward. They may have three, four, or sometimes even five valves. Baritone and euphonium are recognized in Britain as being two different instruments, but in the U.S. there is quite a bit of confusion as to the difference between them, and they are often treated as interchangeable. 
+      </para>
+      <para id="p1b">The difference between the two is not a matter of the number of valves or of where the bell is pointing. Where a distinction between the two instruments is recognized, the important difference between the baritone and the euphonium is the <link document="m12364" target-id="p1c">bore</link>. The euphonium has a much wider, more <link document="m12364" target-id="p1c">conical</link> bore, which gives it a much mellower, richer <link document="m11059">timbre</link>, which some composers prefer for solo work. The baritone, with a narrower, more <link document="m12364" target-id="p1c">cylindrical</link> bore, has a lighter, brighter sound than a euphonium, but the timbre is still not quite as bright and direct as a trombone's (which also has a fairly cylindrical bore). 
+       </para>
+
+    </section>
+    <section id="s2">
+      <title>History</title>
+
+      <para id="p2a">
+Smaller brass instruments, which can play in a <link document="m12381">range</link> where their <link document="m11118">harmonics</link> are close together, have been around for many centuries in a valveless form. (Please see <link document="m11617" target-id="s3">The French Horn</link> for more about this history, or <link document="m12589">Standing Waves and Wind Instruments</link> for more about harmonics in brass instruments.) Slide <link document="m12602">trombone</link> is also an ancient instrument. Large valved brass instruments have a comparatively short history, for they did not become feasible until good-quality valves became available in the 1830's.
+      </para>
+     <para id="p2b">The euphonium is widely said to have been invented "in 1843 by Sommer of Weimar". Many instrument makers, players, and composers experimented with various medium-to-low-range valved brass in the nineteenth century, including alto horn, contralto horn, valved trombones, Wagner tubas, saxtrombas, and saxtubas. The baritone horn (baritone), euphonium, and various bass tubas are the only ones that are still in widespread use today. Although still very uncommon in orchestral music, euphoniums and baritones (along with their close relatives, the tubas) became an indispensable part of <link document="m11421">Western</link> military, marching, and concert bands, replacing several other low-range instruments, including, in some traditions, marching bassoons!
+    </para>
+
+    </section>
+    <section id="s4">
+     <title>Repertoire</title>
+
+    <para id="p4a">
+British brass band music is the best place to listen for baritones and euphoniums. They are also sometimes featured in marches and other band music, particularly by British composers (but not exclusively: try listening to Sousa's <cite><cite-title>Semper Fidelis</cite-title></cite>). These instruments are also given prominent place in some classical-style wind ensemble music - again, particularly music by British composers - for example, Holst's <cite><cite-title>First Suite in E Flat</cite-title></cite> or Grainger's <cite><cite-title>Children's March</cite-title></cite>.
+    </para>
+    <para id="p4b">
+Baritone and euphonium are not standard orchestral instruments, but they can be heard in some orchestral recordings. In many cases, the score originally called for an instrument that has become rare, for example a Wagner tuba. Some easy-to-find examples are:
+    </para>
+
+     <list id="l4a">
+       <item>
+ Gustav Holst's <cite><cite-title>The Planets</cite-title></cite> (Listen especially for the solo in "Mars");  
+       </item>
+       <item>
+Ravel's orchestration of Mussorgsky's <cite><cite-title>Pictures from an Exhibition</cite-title></cite> features a euphonium solo in the "Bydlo" movement.
+       </item>
+     </list>
+
+    </section>
+    <section id="s3">
+      <title>Practical Information for Composers and Arrangers</title>
+
+       <figure id="fig1a">
+         <title>Range of the Baritone</title>
+         <media id="idm159280" alt=""><image src="../../media/baritonerange.png" mime-type="image/png"/></media>
+         
+       </figure>
+
+      <para id="p3a">
+Not all groups have these instruments. Some that do will expect separate parts for baritones and euphoniums; other groups will expect only one part. You may want to check before writing parts for a particular group. Orchestras generally do not have baritones or euphonimums, but you can count on military and marching bands and wind ensembles to have them. Some groups treat the two instruments as interchangeable; others (particularly in Britain) do not.
+      </para>
+    <para id="p3ab">
+Of the two instruments, the euphonium is generally considered the solo instrument, because of its sweet, mellow timbre, which is very different from the more direct, brassy sound of the trombone, the other brass instrument that shares this range.
+    </para>
+    <para id="p3c">Most of these instruments are pitched in B flat (in other words, their no-valves <link document="m11118">harmonic series</link> is based on a B flat), but they may or may not be <link document="m10672">transposing instruments</link>. Parts for these instruments may be written as <link document="m10672">non-transposing</link> parts in bass <link document="m10941">clef</link>, or they may be written in treble clef for a transposing B flat instrument. In other words, if you write for baritone or euphonium in treble clef, you must <link document="m10668">transpose</link> the part, writing it a major ninth (an octave plus a whole step) higher than you want it to sound. Such treble clef parts were originally written for trumpet players who doubled on euphonium, to spare them from having to learn different fingerings. Many baritone and euphonium players will be comfortable reading either type of part, but, to be safe, you may want to provide each baritone or euphonium part both as a bass clef and as a treble clef part. If you are writing for a specific group, you may want to check on preferences.
+    </para>
+     <para id="p3b">These instruments have about the same <link document="m12381">range</link> as trombones, but a mellower <link document="m11059">timbre</link>. Like most lower brass, they are not as agile at fast notes as trumpets and woodwinds, but they can generally play extended passages of quick notes more easily than a trombone or tuba. They can also slur notes more smoothly than trombones and they have a clearer, more focussed sound than a tuba in the upper <link document="m12381" target-id="s4">register</link>. Considering their sweet sound and relative agility compared to other low brass, these instruments have definitely been underutilized, even by modern composers.
+     </para>
+
+    </section>
+    <section id="s5">
+      <title>Further Study</title>
+      <para id="p5a">
+At the time of this writing, <link url="http://home.att.net/~bobbeecher/bari-euph/bari-euph.html">Bob Beecher's Baritone and Euphonium pages</link> were a good source for more history, with lots of pictures. <link url="http://oak.cats.ohiou.edu/~smithj10/Methods/week1b.html">Ohio University's Tuba and Euphonium Studio</link> page also had quite a bit of basic information, including information that might interest students starting out on the instrument.
+      </para>
+    </section>
+ 
+  </content>
+  
+</document>

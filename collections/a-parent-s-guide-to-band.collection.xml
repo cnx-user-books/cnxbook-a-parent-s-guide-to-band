@@ -1,0 +1,80 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10428</md:content-id>
+    <md:title>A Parent's Guide to Band</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>e6d635b9-4a55-4a25-9383-7ed5df49ac33</md:uuid>
+<md:slug>a-parent-s-guide-to-band</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Band Programs</md:title>
+      <col:content>
+        <col:module document="m14266"/>
+        <col:module document="m14436"/>
+        <col:module document="m14438"/>
+        <col:module document="m14435"/>
+        <col:module document="m14439"/>
+        <col:module document="m14566"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Lessons and Practice</md:title>
+      <col:content>
+        <col:module document="m11640"/>
+        <col:module document="m11904"/>
+        <col:module document="m11883"/>
+        <col:module document="m14437"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Instruments</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Basics</md:title>
+          <col:content>
+            <col:module document="m11896"/>
+            <col:module document="m12364"/>
+            <col:module document="m10672"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Woodwinds</md:title>
+          <col:content>
+            <col:module document="m12603"/>
+            <col:module document="m12615"/>
+            <col:module document="m12604"/>
+            <col:module document="m12612"/>
+            <col:module document="m12611"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Brass</md:title>
+          <col:content>
+            <col:module document="m12606"/>
+            <col:module document="m11617"/>
+            <col:module document="m12602"/>
+            <col:module document="m12650"/>
+            <col:module document="m12617"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Percussion</md:title>
+          <col:content>
+            <col:module document="m14533"/>
+            <col:module document="m14534"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Occasional Band Instruments</md:title>
+          <col:content>
+            <col:module document="m14567"/>
+            <col:module document="m12745"/>
+            <col:module document="m14624"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>

@@ -1,0 +1,91 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Bassoons</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>629f36b6-b288-4b0f-9550-448c33994e70</md:uuid>
+</metadata>
+
+  <content>
+
+
+    <section id="s0">
+       <title>Introduction</title>
+
+       <para id="p0a">
+The bassoon is a <link document="m12364" target-id="p6a">double-reed</link> <link document="m11896" target-id="s22">aerophone</link>, and is the largest of the standard <link document="m11897">orchestral</link> <link document="m11897" target-id="s12">woodwinds</link>. Although called <term>bassoon</term> in English, it is called <foreign>fagotto</foreign> or <foreign>fagott</foreign> or <foreign>fagotte</foreign> in other European languages, possibly because its construction reminded someone of a bundle of wood. 
+       </para>
+
+    </section>   
+    <section id="s1">
+       <title>The Instrument</title>
+
+    <para id="p1aa">
+The bassoon is constructed of 5 separable parts. The mouthpiece is just two pieces of reed bound together - hence the term <term>double reed</term> - set into a thin metal <term>crook</term> or <term>bocal</term> that leads the air into the main body of the instrument. In the <term>tenor joint</term> the air travels down toward the <term>butt</term>, where it makes a sharp turn back upward to travel through the <term>bass joint</term> and the <term>bell</term>, which ends above the players head.
+    </para>
+       <para id="p1a">
+The total length of the bassoon, including reed and crook, is over 9 ft. The large size of this woodwind means that its finger holes have to be bored through the wood at an angle to make it playable; otherwise they would be too far apart for the fingers. These angled holes have a strong effect on the <link document="m11059">timbre</link> of the instrument; the upper <link document="m11118">harmonics</link> of each note are stronger than the <link document="m11118" target-id="p1c">fundamental</link>, giving the bassoon its strongly "reedy" color. 
+       </para>
+    <para id="p1b">
+The <term>double bassoon</term> or <term>contrabassoon</term> is even larger and longer; the air doubles back yet again to a downward-facing bell, and the instrument sounds an octave lower than the regular bassoon. Its timbre is rich and deep, and not so reedy.
+    </para>
+    <para id="p1c">
+Like the oboe, the bassoon has a <link document="m12364" target-id="p1c">conical</link> <link document="m12364" target-id="p1c">bore</link>, so it <link document="m12589" target-id="p3b">overblows at the octave</link>.
+    </para>
+    <para id="p1d">
+Different bassoons may have different key systems, and instruments are highly individual. Players of brass, strings, or other woodwinds don't like to switch instruments, but in an emergency they can do it if they have to. A bassoon player simply can't; the instruments are too individualistic.
+    </para>
+
+       <figure id="fig1a">
+         <title>Written Range of Bassoons</title>
+         <media id="idm389008" alt=""><image src="../../media/bassoonrange.png" mime-type="image/png"/></media>
+         <caption>The bassoon sounds as written. The contrabassoon, written in the same range, sounds one octave lower.</caption>
+       </figure>
+
+    </section>
+    <section id="s2">
+      <title>History</title>
+
+      <para id="p2a">
+The bassoon evolved during the 17th century from the curtal. Early bassoons were made from a single block of wood.
+    </para>
+    <para id="p2b">
+Most early woodwinds had holes covered by the fingers rather than <link document="m12364" target-id="p2f">keys</link>. But the bassoon is quite large for a woodwind instrument, and its holes must be a certain distance apart in order to give a proper scale. To make things a little easier on the fingers, the holes are bored into the wood at an angle, but keys are still necessary to make the instrument reasonably playable. The bassoon had some keys already by the early 1600's, and more were gradually added to make the fully keyed modern instrument. In the 19th century various German instrument makers experimented with different systems of keys; the system perfected by Heckel became the most popular, but (unlike most other woodwinds) there are still different key systems and different fingering methods in use.
+      </para>
+
+    </section>
+    <section id="s4">
+       <title>Repertoire</title>
+       
+      <list id="l4a">
+          <title>If you would like to hear bassoons, here are some suggestions for music that should be easy to find.</title>
+           <item>
+Igor Stravinsky's <cite><cite-title>Le Sacre du printemps</cite-title></cite> ("Rite of Spring") begins with a bassoon solo in the high register of the instrument.
+           </item>
+           <item>
+Dukas' <cite><cite-title>L'Apprenti Sorcier</cite-title></cite> ("The Sorcerer's Apprentice" - yes, the same one that Mickey Mouse popularized) may be the most well-known bassoon tune.
+           </item>
+           <item>
+The second movement of Rimsky-Korsakob's <cite><cite-title>Sheherezade</cite-title></cite> includes a couple of extended bassoon solos.
+           </item>
+           <item>
+If you'd like to listen to a bassoon concerto, those by Vivaldi or Mozart may be easiest to find.
+           </item>
+      <item>
+The grandfather in Prokofiev's <cite><cite-title>Peter and the Wolf</cite-title></cite> is a bassoon.
+      </item>
+      </list>
+
+    </section>
+    <section id="s3">
+      <title>Practical Information for Composers and Arrangers</title>
+
+      <para id="p3a">
+The bassoon is a <link document="m10672">nontransposing</link> instrument, with written parts that switch freely from bass to tenor and occasionally treble <link document="m10941">clef</link>. It is not as agile as the other woodwinds, but can handle moderately fast passages.  
+      </para>
+      <para id="p3b">
+The bassoon is the bass of the woodwind section. In orchestral music, it sometimes doubles the cello part. Its distinctive timbre is also useful for solo work, and has been used effectively to evoke every mood from comical to dreamy.
+      </para>
+
+    </section>
+
+  </content>
+  
+</document>
